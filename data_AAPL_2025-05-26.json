@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-05-26",
+  "price": 195.27,
+  "marketCap": 2916513742848,
+  "peRatio": 30.415888,
+  "history": [
+    {
+      "Date": "2025-05-19 00:00:00-04:00",
+      "Open": 207.91000366210938,
+      "High": 209.47999572753906,
+      "Low": 204.25999450683594,
+      "Close": 208.77999877929688,
+      "Volume": 46140500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-20 00:00:00-04:00",
+      "Open": 207.6699981689453,
+      "High": 208.47000122070312,
+      "Low": 205.02999877929688,
+      "Close": 206.86000061035156,
+      "Volume": 42496600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-21 00:00:00-04:00",
+      "Open": 205.1699981689453,
+      "High": 207.0399932861328,
+      "Low": 200.7100067138672,
+      "Close": 202.08999633789062,
+      "Volume": 59211800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-22 00:00:00-04:00",
+      "Open": 200.7100067138672,
+      "High": 202.75,
+      "Low": 199.6999969482422,
+      "Close": 201.36000061035156,
+      "Volume": 46742400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-23 00:00:00-04:00",
+      "Open": 193.6699981689453,
+      "High": 197.6999969482422,
+      "Low": 193.4600067138672,
+      "Close": 195.27000427246094,
+      "Volume": 78314800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "15,551 Shares in Apple Inc. (NASDAQ:AAPL) Purchased by HMV Wealth Advisors LLC",
+      "description": "HMV Wealth Advisors LLC purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the fourth quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The firm purchased 15,551 shares of the \u2026",
+      "url": "https://www.etfdailynews.com/2025/05/25/15551-shares-in-apple-inc-nasdaqaapl-purchased-by-hmv-wealth-advisors-llc/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-25T07:13:09Z",
+      "content": "HMV Wealth Advisors LLC purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the fourth quarter, according to its most recent disclosure with the Securities and Exchang\u2026 [+6714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Clearstead Trust LLC Has $22.13 Million Position in Apple Inc. (NASDAQ:AAPL)",
+      "description": "Clearstead Trust LLC raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 16.4% in the 4th quarter, Holdings Channel.com reports. The firm owned 88,372 shares of the iPhone maker\u2019s stock after acquiring an additional 12,464 shares during\u2026",
+      "url": "https://www.etfdailynews.com/2025/05/25/clearstead-trust-llc-has-22-13-million-position-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-25T07:13:08Z",
+      "content": "Clearstead Trust LLC raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 16.4% in the 4th quarter, Holdings Channel.com reports. The firm owned 88,372 shares of the iPhone make\u2026 [+6924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Family Firm Inc. Sells 2,313 Shares of Apple Inc. (NASDAQ:AAPL)",
+      "description": "Family Firm Inc. reduced its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.0% during the 4th quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 35,947 shares of the iPhone maker\u2019\u2026",
+      "url": "https://www.etfdailynews.com/2025/05/25/family-firm-inc-sells-2313-shares-of-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-25T07:13:07Z",
+      "content": "Family Firm Inc. reduced its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.0% during the 4th quarter, according to its most recent disclosure with the Securities and Exchange Commiss\u2026 [+6732 chars]"
+    }
+  ]
+}
