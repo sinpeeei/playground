@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-05-27",
+  "price": 195.27,
+  "marketCap": 2916513742848,
+  "peRatio": 30.415888,
+  "history": [
+    {
+      "Date": "2025-05-19 00:00:00-04:00",
+      "Open": 207.91000366210938,
+      "High": 209.47999572753906,
+      "Low": 204.25999450683594,
+      "Close": 208.77999877929688,
+      "Volume": 46140500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-20 00:00:00-04:00",
+      "Open": 207.6699981689453,
+      "High": 208.47000122070312,
+      "Low": 205.02999877929688,
+      "Close": 206.86000061035156,
+      "Volume": 42496600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-21 00:00:00-04:00",
+      "Open": 205.1699981689453,
+      "High": 207.0399932861328,
+      "Low": 200.7100067138672,
+      "Close": 202.08999633789062,
+      "Volume": 59211800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-22 00:00:00-04:00",
+      "Open": 200.7100067138672,
+      "High": 202.75,
+      "Low": 199.6999969482422,
+      "Close": 201.36000061035156,
+      "Volume": 46742400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-23 00:00:00-04:00",
+      "Open": 193.6699981689453,
+      "High": 197.6999969482422,
+      "Low": 193.4600067138672,
+      "Close": 195.27000427246094,
+      "Volume": 78314800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "247wallst.com",
+      "title": "Trump Wants iPhones Made in the USA, But Is It Even Possible?",
+      "description": "Key Points\n \n \n \n \nFormer President Trump criticized Apple (NASDAQ: AAPL) for shifting iPhone production from China to India instead of the U.S., but logistical and labor cost realities make domestic assembly economically unviable.\n \n \n \nAssembling iPhones in\u2026",
+      "url": "https://biztoc.com/x/1f908e8439f03b8e",
+      "urlToImage": "https://biztoc.com/cdn/948/og.png",
+      "publishedAt": "2025-05-25T14:16:34Z",
+      "content": "Key Points\r\nFormer President Trump criticized Apple (NASDAQ: AAPL) for shifting iPhone production from China to India instead of the U.S., but logistical and labor cost realities make domestic assemb\u2026 [+135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Bond Yields & Stocks: Something\u2019s Happening Here",
+      "description": "Stock weakness has more to do with changing odds of recession than pressure from higher US Treasury yields. Rising global yields and government debt trends are examined.",
+      "url": "https://www.forbes.com/sites/bill_stone/2025/05/25/bond-yields--stocks-somethings-happening-here/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/638211ab1ecff16633f35930/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-25T12:24:45Z",
+      "content": "The recent sharp rise in US Treasury bond yields has raised questions about whether the move is ... More connected to US fiscal policy or the end of American exceptionalism. The evidence for alternat\u2026 [+6660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "15,551 Shares in Apple Inc. (NASDAQ:AAPL) Purchased by HMV Wealth Advisors LLC",
+      "description": "HMV Wealth Advisors LLC purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the fourth quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The firm purchased 15,551 shares of the \u2026",
+      "url": "https://www.etfdailynews.com/2025/05/25/15551-shares-in-apple-inc-nasdaqaapl-purchased-by-hmv-wealth-advisors-llc/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-25T07:13:09Z",
+      "content": "HMV Wealth Advisors LLC purchased a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the fourth quarter, according to its most recent disclosure with the Securities and Exchang\u2026 [+6714 chars]"
+    }
+  ]
+}
