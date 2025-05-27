@@ -33,7 +33,7 @@ jobs:
         run: |
           python fetch_fin_data.py         # JSON 生成
           python generate_summary.py       # 要約→CSV 追記 
-
+　
       # 5. 変更があればコミットしてプッシュ
       - name: Commit and push
         run: |
