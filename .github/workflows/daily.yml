@@ -32,7 +32,7 @@ jobs:
           NEWSAPI_KEY:    ${{ secrets.NEWSAPI_KEY }}
         run: |
           python fetch_fin_data.py         # JSON 生成
-          python generate_summary.py       # 要約→CSV 追記
+          python generate_summary.py       # 要約→CSV 追記 
 
       # 5. 変更があればコミットしてプッシュ
       - name: Commit and push
@@ -42,3 +42,4 @@ jobs:
           git add prompt_log.csv data_*.json
           git commit -m "chore: auto summary $(date '+%Y-%m-%d')" || echo "nothing to commit"
           git push
+
