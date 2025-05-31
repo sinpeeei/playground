@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-05-31",
+  "price": 200.85,
+  "marketCap": 2999855611904,
+  "peRatio": 31.139536,
+  "history": [
+    {
+      "Date": "2025-05-23 00:00:00-04:00",
+      "Open": 193.6699981689453,
+      "High": 197.6999969482422,
+      "Low": 193.4600067138672,
+      "Close": 195.27000427246094,
+      "Volume": 78432900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-27 00:00:00-04:00",
+      "Open": 198.3000030517578,
+      "High": 200.74000549316406,
+      "Low": 197.42999267578125,
+      "Close": 200.2100067138672,
+      "Volume": 56288500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-28 00:00:00-04:00",
+      "Open": 200.58999633789062,
+      "High": 202.72999572753906,
+      "Low": 199.89999389648438,
+      "Close": 200.4199981689453,
+      "Volume": 45339700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-29 00:00:00-04:00",
+      "Open": 203.5800018310547,
+      "High": 203.80999755859375,
+      "Low": 198.50999450683594,
+      "Close": 199.9499969482422,
+      "Volume": 51477900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-30 00:00:00-04:00",
+      "Open": 199.3699951171875,
+      "High": 201.9600067138672,
+      "Low": 196.77999877929688,
+      "Close": 200.85000610351562,
+      "Volume": 70753100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool Australia"
+      },
+      "author": "Laura Stewart",
+      "title": "Looking for diversified exposure to Nvidia shares after its result? Buy this ASX ETF",
+      "description": "Nvidia delivered another impressive earnings result this week.\nThe post Looking for diversified exposure to Nvidia shares after its result? Buy this ASX ETF appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/05/30/looking-for-diversified-exposure-to-nvidia-shares-after-its-result-buy-this-asx-etf/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/04/nvidia1.jpg",
+      "publishedAt": "2025-05-29T23:54:42Z",
+      "content": "Nvidia Corp (NASDAQ: NVDA) shares are firmly back in favour.\u00a0\r\nYesterday, the world's second biggest listed company, Nvidia, delivered a better-than-expected first quarter earnings report.\u00a0\r\nThe chip\u2026 [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Apple falls behind Magnificent 7 rivals as its AI floundering hits stock",
+      "description": "The \u201cMag Seven\u201d tech stocks have led the market\u2019s recent boom. But as Big Tech motors into the AI future, Apple is dangerously behind\u2026\nThe post Apple falls behind Magnificent 7 rivals as its AI floundering hits stock appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2025/05/29/apple-falls-behind-magnificent-7-rivals-as-its-ai-floundering-hits-stock/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2025/05/250529_tim_cook.png",
+      "publishedAt": "2025-05-29T21:15:08Z",
+      "content": "The Magnificent Seven tech stocks have led the markets recent boom. But as Big Tech motors into the AI future, Apple is dangerously behind and, so far, looks to have little hope of catching up any ti\u2026 [+7210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Syeda Seirut Javed",
+      "title": "Jim Cramer on Apple Inc. (AAPL): \u201cThey\u2019ll Have the Best AI\u201d",
+      "description": "We recently published a list of Jim Cramer Put These 14 Stocks Under the Microscope. In this article, we are going to take a look at where Apple Inc...",
+      "url": "https://finance.yahoo.com/news/jim-cramer-apple-inc-aapl-202234283.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/dc5a2bcb6b4c16a43cb5b4ba98feb139",
+      "publishedAt": "2025-05-29T20:22:34Z",
+      "content": "We recently published a list of Jim Cramer Put These 14 Stocks Under the Microscope. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Ji\u2026 [+1402 chars]"
+    }
+  ]
+}
