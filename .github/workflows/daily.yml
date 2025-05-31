@@ -42,3 +42,5 @@ jobs:
           git add prompt_log.csv data_*.json
           git commit -m "chore: auto summary $(date '+%Y-%m-%d')" || echo "nothing to commit"
           git push
+permissions:
+  contents: write
