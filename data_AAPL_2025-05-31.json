@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-05-31",
+  "price": 200.85,
+  "marketCap": 2999855611904,
+  "peRatio": 31.236393,
+  "history": [
+    {
+      "Date": "2025-05-23 00:00:00-04:00",
+      "Open": 193.6699981689453,
+      "High": 197.6999969482422,
+      "Low": 193.4600067138672,
+      "Close": 195.27000427246094,
+      "Volume": 78432900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-27 00:00:00-04:00",
+      "Open": 198.3000030517578,
+      "High": 200.74000549316406,
+      "Low": 197.42999267578125,
+      "Close": 200.2100067138672,
+      "Volume": 56288500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-28 00:00:00-04:00",
+      "Open": 200.58999633789062,
+      "High": 202.72999572753906,
+      "Low": 199.89999389648438,
+      "Close": 200.4199981689453,
+      "Volume": 45339700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-29 00:00:00-04:00",
+      "Open": 203.5800018310547,
+      "High": 203.80999755859375,
+      "Low": 198.50999450683594,
+      "Close": 199.9499969482422,
+      "Volume": 51396800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-30 00:00:00-04:00",
+      "Open": 199.3699951171875,
+      "High": 201.9600067138672,
+      "Low": 196.77999877929688,
+      "Close": 200.85000610351562,
+      "Volume": 70753100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Apple appears ready to flex its AI model muscles",
+      "description": "Since Apple Intelligence launched last fall, the company\u2019s AI efforts have mostly amounted to a string of setbacks, delays, and no-shows\u2026\nThe post Apple appears ready to flex its AI model muscles appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2025/05/30/apple-appears-ready-to-flex-its-ai-model-muscles/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/09/240924_apple_intelligence.png",
+      "publishedAt": "2025-05-30T20:55:16Z",
+      "content": "Since Apple Intelligence launched last fall, the companys AI efforts have mostly amounted to a string of setbacks. The biggest one? The full suite of Apple Intelligence features still hasnt rolled ou\u2026 [+1310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Shannon Carroll",
+      "title": "Google's antitrust case could hinge on the definition of AI",
+      "description": "On the final day of the most consequential tech antitrust trial in decades, a question from the bench may have gotten to the core of Google\u2019s (GOOGL) defense: Could artificial intelligence already be doing what regulators hope to accomplish through the courts\u2026",
+      "url": "https://qz.com/google-antitrust-case-ai-search-chatgpt-1851783125",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a6667111ad94488b9ac910e7bf1e1b79.jpg",
+      "publishedAt": "2025-05-30T16:34:23Z",
+      "content": "In This Story\r\nOn the final day of the most consequential tech antitrust trial in decades, a question from the bench may have gotten to the core of Googles (GOOGL) defense: Could artificial intellige\u2026 [+2810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "247wallst.com",
+      "title": "The Victorious Return of the iPhone",
+      "description": "The Apple Inc. (NASDAQ: AAPL) iPhone was the top-selling smartphone in the world in the first quarter. It mauled the competition, taking the top four spots on research firm Counterpoint\u2019s list.\n \n \n \n24/7 Wall St. Key Points:\n \n \n \n \nThe iPhone was the top-se\u2026",
+      "url": "https://biztoc.com/x/a99013fd7901f966",
+      "urlToImage": "https://biztoc.com/cdn/948/og.png",
+      "publishedAt": "2025-05-30T14:19:38Z",
+      "content": "The Apple Inc. (NASDAQ: AAPL) iPhone was the top-selling smartphone in the world in the first quarter. It mauled the competition, taking the top four spots on research firm Counterpoints list.\r\n24/7 \u2026 [+135 chars]"
+    }
+  ]
+}

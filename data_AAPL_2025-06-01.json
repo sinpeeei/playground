@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-01",
+  "price": 200.85,
+  "marketCap": 2999855611904,
+  "peRatio": 31.236393,
+  "history": [
+    {
+      "Date": "2025-05-23 00:00:00-04:00",
+      "Open": 193.6699981689453,
+      "High": 197.6999969482422,
+      "Low": 193.4600067138672,
+      "Close": 195.27000427246094,
+      "Volume": 78432900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-27 00:00:00-04:00",
+      "Open": 198.3000030517578,
+      "High": 200.74000549316406,
+      "Low": 197.42999267578125,
+      "Close": 200.2100067138672,
+      "Volume": 56288500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-28 00:00:00-04:00",
+      "Open": 200.58999633789062,
+      "High": 202.72999572753906,
+      "Low": 199.89999389648438,
+      "Close": 200.4199981689453,
+      "Volume": 45339700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-29 00:00:00-04:00",
+      "Open": 203.5800018310547,
+      "High": 203.80999755859375,
+      "Low": 198.50999450683594,
+      "Close": 199.9499969482422,
+      "Volume": 51396800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-30 00:00:00-04:00",
+      "Open": 199.3699951171875,
+      "High": 201.9600067138672,
+      "Low": 196.77999877929688,
+      "Close": 200.85000610351562,
+      "Volume": 70753100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Hagibis\u3001\u9632\u5875\u30d5\u30a3\u30eb\u30bf\u30fc\u4ed8\u304d\u30b9\u30bf\u30f3\u30c9\u3092\u642d\u8f09\u3057\u305fNVMe SSD\u30b9\u30ed\u30c3\u30c8\u4ed8\u304d\u306eUSB-C\u30cf\u30d6\u300cHagibis Mac mini M4 Hub with M.2 SSD (MC65/MC65H)\u300d\u3092\u767a\u58f2\u3002",
+      "description": "Hagibis\u304c\u9632\u5875\u30d5\u30a3\u30eb\u30bf\u30fc\u4ed8\u304d\u30b9\u30bf\u30f3\u30c9\u3092\u642d\u8f09\u3057\u305fNVMe SSD\u30b9\u30ed\u30c3\u30c8\u4ed8\u304d\u306eUSB-c\u30cf\u30d6\u300cHagibis Mac mini M4 Hub with M.2 SSD (MC65/MC65H)\u300d\u3092\u767a\u58f2\u3057\u3066\u3044\u307e\u3059\u3002\u8a73 [\u2026]\nThe post Hagibis\u3001\u9632\u5875\u30d5\u30a3\u30eb\u30bf\u30fc\u4ed8\u304d\u30b9\u30bf\u30f3\u30c9\u3092\u642d\u8f09\u3057\u305fNVMe SSD\u30b9\u30ed\u30c3\u30c8\u4ed8\u304d\u306eUSB-C\u30cf\u30d6\u300cHagibis Mac mini M4 Hub with M.2 SSD (MC65/MC65H)\u300d\u3092\u767a\u58f2\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250531-hagibis-mac-mini-m4-hub-with-m-2-ssd.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/05/Hagibis-Mac-mini-M4-Hub-with-M-2-SSD-Hero.webp",
+      "publishedAt": "2025-05-31T11:36:50Z",
+      "content": "HagibisNVMe SSDUSB-cHagibis Mac mini M4 Hub with M.2 SSD (MC65/MC65H)\r\nHagibisNVMe SSD10GbpsUSB-CHagibis Mac mini M4 Hub with M.2 SSD Enclosure &amp; Dustproof Stand (MC65/MC65H) (Hagibis Mac mini M4\u2026 [+680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Top Technology Stocks To Follow Today \u2013 May 29th",
+      "description": "NVIDIA, Apple, Salesforce, Meta Platforms, Alphabet, Microsoft, and Broadcom are the seven Technology stocks to watch today, according to MarketBeat\u2019s stock screener tool. Technology stocks are shares in companies that create or distribute technology products\u2026",
+      "url": "https://www.etfdailynews.com/2025/05/31/top-technology-stocks-to-follow-today-may-29th/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-31T11:01:03Z",
+      "content": "NVIDIA, Apple, Salesforce, Meta Platforms, Alphabet, Microsoft, and Broadcom are the seven Technology stocks to watch today, according to MarketBeat\u2019s stock screener tool. Technology stocks are share\u2026 [+8368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Financial Network Wealth Management LLC",
+      "description": "Financial Network Wealth Management LLC cut its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.1% in the 4th quarter, HoldingsChannel.com reports. The institutional investor owned 75,086 shares of the iPhone maker\u2019s stock after selling 802 shares dur\u2026",
+      "url": "https://www.etfdailynews.com/2025/05/31/apple-inc-nasdaqaapl-shares-sold-by-financial-network-wealth-management-llc/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-05-31T07:52:52Z",
+      "content": "Financial Network Wealth Management LLC cut its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.1% in the 4th quarter, HoldingsChannel.com reports. The institutional investor owned 75,086 sha\u2026 [+6868 chars]"
+    }
+  ]
+}
