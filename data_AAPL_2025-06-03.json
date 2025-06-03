@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-03",
+  "price": 201.7,
+  "marketCap": 3012550721536,
+  "peRatio": 31.46646,
+  "history": [
+    {
+      "Date": "2025-05-27 00:00:00-04:00",
+      "Open": 198.3000030517578,
+      "High": 200.74000549316406,
+      "Low": 197.42999267578125,
+      "Close": 200.2100067138672,
+      "Volume": 56288500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-28 00:00:00-04:00",
+      "Open": 200.58999633789062,
+      "High": 202.72999572753906,
+      "Low": 199.89999389648438,
+      "Close": 200.4199981689453,
+      "Volume": 45339700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-29 00:00:00-04:00",
+      "Open": 203.5800018310547,
+      "High": 203.80999755859375,
+      "Low": 198.50999450683594,
+      "Close": 199.9499969482422,
+      "Volume": 51396800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-05-30 00:00:00-04:00",
+      "Open": 199.3699951171875,
+      "High": 201.9600067138672,
+      "Low": 196.77999877929688,
+      "Close": 200.85000610351562,
+      "Volume": 70819900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-02 00:00:00-04:00",
+      "Open": 200.27999877929688,
+      "High": 202.1300048828125,
+      "Low": 200.1199951171875,
+      "Close": 201.6999969482422,
+      "Volume": 35343100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Fitness Stocks To Add to Your Watchlist \u2013 May 31st",
+      "description": "Apple, PDD, and GAP are the three Fitness stocks to watch today, according to MarketBeat\u2019s stock screener tool. Fitness stocks are shares of publicly traded companies whose core business revolves around health, wellness, and physical exercise\u2014such as gym oper\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/02/fitness-stocks-to-add-to-your-watchlist-may-31st/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-02T08:06:57Z",
+      "content": "Apple, PDD, and GAP are the three Fitness stocks to watch today, according to MarketBeat\u2019s stock screener tool. Fitness stocks are shares of publicly traded companies whose core business revolves aro\u2026 [+3628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Heron Bay Capital Management Has $12.14 Million Position in Apple Inc. (NASDAQ:AAPL)",
+      "description": "Heron Bay Capital Management increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 4th quarter, Holdings Channel reports. The firm owned 48,473 shares of the iPhone maker\u2019s stock after purchasing an additional 161 shares during the peri\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/02/heron-bay-capital-management-has-12-14-million-position-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-02T07:14:50Z",
+      "content": "Heron Bay Capital Management increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 4th quarter, Holdings Channel reports. The firm owned 48,473 shares of the iPhone maker\u2019s sto\u2026 [+6308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Meridian Wealth Partners LLC Increases Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
+      "description": "Meridian Wealth Partners LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.7% in the fourth quarter, HoldingsChannel.com reports. The fund owned 44,558 shares of the iPhone maker\u2019s stock after purchasing an additional 8,827 sh\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/02/meridian-wealth-partners-llc-increases-stock-holdings-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-02T07:14:50Z",
+      "content": "Meridian Wealth Partners LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.7% in the fourth quarter, HoldingsChannel.com reports. The fund owned 44,558 shares of the \u2026 [+6953 chars]"
+    }
+  ]
+}
