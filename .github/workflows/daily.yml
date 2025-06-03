@@ -42,3 +42,12 @@ jobs:
           git add prompt_log.csv data_*.json
           git commit -m "chore: auto summary $(date '+%Y-%m-%d')" || echo "nothing to commit"
           git push
+     # 6. Slack へ完了通知
+     - name: Notify Slack
+       if: success()
+       uses: slackapi/slack-github-action@v1.25.0
+       with:
+         payload: |
+           { "text": ":white_check_mark: *Daily summary 完了* :rocket:\nRun #${{ github.run_number }} (<${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}|詳細>)" }
+       env:
+         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK }}
