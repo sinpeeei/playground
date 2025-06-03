@@ -1,20 +1,10 @@
 {
   "ticker": "AAPL",
   "date": "2025-06-03",
-  "price": 201.7,
-  "marketCap": 3012550721536,
-  "peRatio": 31.46646,
+  "price": 203.27,
+  "marketCap": 3036000026624,
+  "peRatio": 31.71139,
   "history": [
-    {
-      "Date": "2025-05-27 00:00:00-04:00",
-      "Open": 198.3000030517578,
-      "High": 200.74000549316406,
-      "Low": 197.42999267578125,
-      "Close": 200.2100067138672,
-      "Volume": 56288500,
-      "Dividends": 0.0,
-      "Stock Splits": 0.0
-    },
     {
       "Date": "2025-05-28 00:00:00-04:00",
       "Open": 200.58999633789062,
@@ -51,7 +41,17 @@
       "High": 202.1300048828125,
       "Low": 200.1199951171875,
       "Close": 201.6999969482422,
-      "Volume": 35343100,
+      "Volume": 35423300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-03 00:00:00-04:00",
+      "Open": 201.35000610351562,
+      "High": 203.77000427246094,
+      "Low": 200.9550018310547,
+      "Close": 203.27000427246094,
+      "Volume": 43184092,
       "Dividends": 0.0,
       "Stock Splits": 0.0
     }
@@ -60,41 +60,41 @@
     {
       "source": {
         "id": null,
-        "name": "ETF Daily News"
+        "name": "Motley Fool Australia"
       },
-      "author": "MarketBeat News",
-      "title": "Fitness Stocks To Add to Your Watchlist \u2013 May 31st",
-      "description": "Apple, PDD, and GAP are the three Fitness stocks to watch today, according to MarketBeat\u2019s stock screener tool. Fitness stocks are shares of publicly traded companies whose core business revolves around health, wellness, and physical exercise\u2014such as gym oper\u2026",
-      "url": "https://www.etfdailynews.com/2025/06/02/fitness-stocks-to-add-to-your-watchlist-may-31st/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-      "publishedAt": "2025-06-02T08:06:57Z",
-      "content": "Apple, PDD, and GAP are the three Fitness stocks to watch today, according to MarketBeat\u2019s stock screener tool. Fitness stocks are shares of publicly traded companies whose core business revolves aro\u2026 [+3628 chars]"
+      "author": "James Mickleboro",
+      "title": "Buy and hold these ASX ETFs for the next decade",
+      "description": "These funds could be strong picks for investors looking to make long term investments.\nThe post Buy and hold these ASX ETFs for the next decade appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/06/03/buy-and-hold-these-asx-etfs-for-the-next-decade/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2020/08/Time-running-out-16.9-1200x675.jpg",
+      "publishedAt": "2025-06-02T21:59:20Z",
+      "content": "When it comes to long-term investing, the secret is simple: own great assets and give them time to grow.\r\nThat's why if you're looking to build wealth over the next decade, you could do a lot worse t\u2026 [+2399 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ETF Daily News"
+        "name": "Quartz India"
       },
-      "author": "MarketBeat News",
-      "title": "Heron Bay Capital Management Has $12.14 Million Position in Apple Inc. (NASDAQ:AAPL)",
-      "description": "Heron Bay Capital Management increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 4th quarter, Holdings Channel reports. The firm owned 48,473 shares of the iPhone maker\u2019s stock after purchasing an additional 161 shares during the peri\u2026",
-      "url": "https://www.etfdailynews.com/2025/06/02/heron-bay-capital-management-has-12-14-million-position-in-apple-inc-nasdaqaapl/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-      "publishedAt": "2025-06-02T07:14:50Z",
-      "content": "Heron Bay Capital Management increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 4th quarter, Holdings Channel reports. The firm owned 48,473 shares of the iPhone maker\u2019s sto\u2026 [+6308 chars]"
+      "author": "Joseph Zeballos-Roig",
+      "title": "The Trump administration is delaying a 25% tariff on Chinese-made graphics cards",
+      "description": "Graphics cards and motherboards assembled in China are avoiding President Donald Trump\u2019s import taxes, for now.Read more...",
+      "url": "https://qz.com/trump-tariff-delay-chinese-graphics-cards-gpu-1851783407",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f772fc587dd817e329279a5b5941c5c1.jpg",
+      "publishedAt": "2025-06-02T21:14:00Z",
+      "content": "In This Story\r\nGraphics cards and motherboards assembled in China are avoiding President Donald Trumps import taxes, for now.\r\nIn a three-page notice published Saturday in the Federal Register, the O\u2026 [+1063 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ETF Daily News"
+        "name": "Biztoc.com"
       },
-      "author": "MarketBeat News",
-      "title": "Meridian Wealth Partners LLC Increases Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
-      "description": "Meridian Wealth Partners LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.7% in the fourth quarter, HoldingsChannel.com reports. The fund owned 44,558 shares of the iPhone maker\u2019s stock after purchasing an additional 8,827 sh\u2026",
-      "url": "https://www.etfdailynews.com/2025/06/02/meridian-wealth-partners-llc-increases-stock-holdings-in-apple-inc-nasdaqaapl/",
-      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-      "publishedAt": "2025-06-02T07:14:50Z",
-      "content": "Meridian Wealth Partners LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.7% in the fourth quarter, HoldingsChannel.com reports. The fund owned 44,558 shares of the \u2026 [+6953 chars]"
+      "author": "benzinga.com",
+      "title": "Here's How Much You Would Have Made Owning Apple Stock In The Last 10 Years",
+      "description": "Apple (NASDAQ:AAPL) has outperformed the market over the past 10 years by 9.25% on an annualized basis producing an average annual return of 20.27%. Currently, Apple has a market capitalization of $3.04 trillion. \nBuying $1000 In AAPL: If an ...\nFull story av\u2026",
+      "url": "https://biztoc.com/x/4a76832a7cc8af0a",
+      "urlToImage": "https://biztoc.com/cdn/948/og.png",
+      "publishedAt": "2025-06-02T20:59:18Z",
+      "content": "Apple (NASDAQ:AAPL) has outperformed the market over the past 10 years by 9.25% on an annualized basis producing an average annual return of 20.27%. Currently, Apple has a market capitalization of $3\u2026 [+139 chars]"
     }
   ]
 }
