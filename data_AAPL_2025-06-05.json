@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-05",
+  "price": 200.63,
+  "marketCap": 2996569636864,
+  "peRatio": 31.202179,
+  "history": [
+    {
+      "Date": "2025-05-30 00:00:00-04:00",
+      "Open": 199.3699951171875,
+      "High": 201.9600067138672,
+      "Low": 196.77999877929688,
+      "Close": 200.85000610351562,
+      "Volume": 70819900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-02 00:00:00-04:00",
+      "Open": 200.27999877929688,
+      "High": 202.1300048828125,
+      "Low": 200.1199951171875,
+      "Close": 201.6999969482422,
+      "Volume": 35423300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-03 00:00:00-04:00",
+      "Open": 201.35000610351562,
+      "High": 203.77000427246094,
+      "Low": 200.9600067138672,
+      "Close": 203.27000427246094,
+      "Volume": 46381600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-04 00:00:00-04:00",
+      "Open": 202.91000366210938,
+      "High": 206.24000549316406,
+      "Low": 202.10000610351562,
+      "Close": 202.82000732421875,
+      "Volume": 43604000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-05 00:00:00-04:00",
+      "Open": 203.59500122070312,
+      "High": 204.75,
+      "Low": 200.15960693359375,
+      "Close": 200.6300048828125,
+      "Volume": 54955826,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "OpenAI\u3001ChatGPT Plus\u4ee5\u4e0a\u306e\u30e6\u30fc\u30b6\u30fc\u306bOutlook\u3084Team, Google Drive\u3001Gmail\u306a\u3069\u3068\u306eDeep Research\u30b3\u30cd\u30af\u30bf(Beta)\u3068\u3001MCP\u3092\u5229\u7528\u3057\u305f\u30ab\u30b9\u30bf\u30e0\u30b3\u30cd\u30af\u30bf\u306e\u63d0\u4f9b\u3092\u958b\u59cb\u3002",
+      "description": "OpenAI\u304cChatGPT Plus\u4ee5\u4e0a\u306e\u30e6\u30fc\u30b6\u30fc\u306bOutlook\u3084Team\u3001Google Drive\u3001Gmail\u306a\u3069\u3068\u306eDeep Research\u30b3\u30cd\u30af\u30bf(Beta)\u3068MCP\u306e\u63d0\u4f9b\u3092\u958b\u59cb\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 [\u2026]\nThe post OpenAI\u3001ChatGPT Plus\u4ee5\u4e0a\u306e\u30e6\u30fc\u30b6\u30fc\u306bOutlook\u3084Team, Google Drive\u3001Gmail\u306a\u3069\u3068\u306eDeep Research\u30b3\u30cd\u30af\u30bf(Beta)\u3068\u3001MCP\u3092\u5229\u7528\u3057\u305f\u30ab\u30b9\u30bf\u30e0\u30b3\u30cd\u30af\u30bf\u306e\u63d0\u4f9b\u3092\u958b\u59cb\u3002 first appeared on AAPL C\u2026",
+      "url": "https://applech2.com/archives/20250605-chatgpt-support-deep-research-connector-and-mcp.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/ChatGPT-support-Deep-Research-Connector-and-Model-Context-Protocol-Hero.webp",
+      "publishedAt": "2025-06-04T22:28:31Z",
+      "content": "OpenAIChatGPT PlusOutlookTeamGoogle DriveGmailDeep Research(Beta)MCP\r\nOpenAI20250604AIChatGPTWebDeep Research(Connectors)MicrosoftGoogleDropboxModel Context Protocol (MCP)Pro, Team, Enterprise, Edu\r\n\u2026 [+781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Market\u2019s New Hope for Apple (AAPL) \u2018Super Cycle\u2019 After AI Dissappointment: iPhone Air",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d7f4c93c-b48e-4167-a2ea-eddd1d647559",
+      "urlToImage": null,
+      "publishedAt": "2025-06-04T20:19:17Z",
+      "content": "If you click 'Accept all', we and our partners, including 241 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Apple needs to show it can compete in the AI race at WWDC 2025",
+      "description": "Apple needs to show it's stepping on it to compete in the AI race.",
+      "url": "https://finance.yahoo.com/news/apple-needs-to-show-it-can-compete-in-the-ai-race-at-wwdc-2025-190033784.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R3kClh.qCzYJrUcOOSH3aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/a47f9c90-4149-11f0-bfdf-8c2f68d57d7a",
+      "publishedAt": "2025-06-04T19:00:33Z",
+      "content": "Apple (AAPL) will host its annual WWDC developers conference on June 9 at its headquarters in Cupertino, Calif., giving us a glimpse at the various software updates it has planned for the year ahead.\u2026 [+4741 chars]"
+    }
+  ]
+}
