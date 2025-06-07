@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-07",
+  "price": 203.92,
+  "marketCap": 3045708267520,
+  "peRatio": 31.763239,
+  "history": [
+    {
+      "Date": "2025-06-02 00:00:00-04:00",
+      "Open": 200.27999877929688,
+      "High": 202.1300048828125,
+      "Low": 200.1199951171875,
+      "Close": 201.6999969482422,
+      "Volume": 35423300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-03 00:00:00-04:00",
+      "Open": 201.35000610351562,
+      "High": 203.77000427246094,
+      "Low": 200.9600067138672,
+      "Close": 203.27000427246094,
+      "Volume": 46381600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-04 00:00:00-04:00",
+      "Open": 202.91000366210938,
+      "High": 206.24000549316406,
+      "Low": 202.10000610351562,
+      "Close": 202.82000732421875,
+      "Volume": 43604000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-05 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.75,
+      "Low": 200.14999389648438,
+      "Close": 200.6300048828125,
+      "Volume": 55126100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-06 00:00:00-04:00",
+      "Open": 203.0,
+      "High": 205.6999969482422,
+      "Low": 202.0500030517578,
+      "Close": 203.9199981689453,
+      "Volume": 46539200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Erickimphotography.com"
+      },
+      "author": "ERIC KIM",
+      "title": "MAGNIFICENT 7 \u2192 MAGNIFICENT 1: THE CAPITAL FUNNEL OF DESTINY",
+      "description": "By Eric Kim \u2014 digital nomad, Bitcoin berserker, breaker of algorithms 1. The Problem: Seven Kings, One Fragile Throne Wall Street\u2019s \u201cMagnificent 7\u201d lord over $16.8 TRILLION in market cap, yet their collective might is wobbling\u2014down ~4.5 % YTD, with single-day\u2026",
+      "url": "https://erickimphotography.com/blog/2025/06/06/magnificent-7-%e2%86%92-magnificent-1-the-capital-funnel-of-destiny/",
+      "urlToImage": null,
+      "publishedAt": "2025-06-06T21:58:50Z",
+      "content": "By Eric Kim digital nomad, Bitcoin berserker, breaker of algorithms\r\n1. The Problem: Seven Kings, One Fragile Throne\r\nWall Streets Magnificent 7 lord over $16.8 TRILLION in market cap, yet their coll\u2026 [+3282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "EntrepreneurShares",
+      "title": "XOVR ETF Adds Anduril, Joining SpaceX to Offer Pre-IPO Access",
+      "description": "XOVR ETF Adds Anduril to Crossover Fund. Joins SpaceX and Klarna as Private Equity Holdings in ETF that Holds 85%+ of Entrepreneur 30 Total Return Index",
+      "url": "https://www.globenewswire.com/news-release/2025/06/06/3095423/0/en/XOVR-ETF-Adds-Anduril-Joining-SpaceX-to-Offer-Pre-IPO-Access.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7b2d3f7c-c162-431a-ab27-ef42272c6ff6",
+      "publishedAt": "2025-06-06T19:48:00Z",
+      "content": "NEW YORK, June 06, 2025 (GLOBE NEWSWIRE) -- ERShares, the first Crossover ETF that offers retail investors access to Private companies, with SpaceX as its top weight, is ushering in the next generati\u2026 [+5411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Caitlyn Moorhead",
+      "title": "Is Apple or Disney Stock a Better Buy?",
+      "description": "Apple and Disney are both huge players in the entertainment sector. The question is, when it comes to Apple vs. Disney stock, which is the smarter investment...",
+      "url": "https://finance.yahoo.com/news/apple-stock-disney-stock-better-160114979.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DMrKKK6K3apHeq45yr6ufg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/a3baef26435e7051b3be9035698321d6",
+      "publishedAt": "2025-06-06T16:26:41Z",
+      "content": "Apple and Disney are both huge players in the entertainment sector. The question is, when it comes to Apple vs. Disney stock, which is the smarter investment? This guide will walk you through the ins\u2026 [+3777 chars]"
+    }
+  ]
+}
