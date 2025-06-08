@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-08",
+  "price": 203.92,
+  "marketCap": 3045708267520,
+  "peRatio": 31.763239,
+  "history": [
+    {
+      "Date": "2025-06-02 00:00:00-04:00",
+      "Open": 200.27999877929688,
+      "High": 202.1300048828125,
+      "Low": 200.1199951171875,
+      "Close": 201.6999969482422,
+      "Volume": 35423300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-03 00:00:00-04:00",
+      "Open": 201.35000610351562,
+      "High": 203.77000427246094,
+      "Low": 200.9600067138672,
+      "Close": 203.27000427246094,
+      "Volume": 46381600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-04 00:00:00-04:00",
+      "Open": 202.91000366210938,
+      "High": 206.24000549316406,
+      "Low": 202.10000610351562,
+      "Close": 202.82000732421875,
+      "Volume": 43604000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-05 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.75,
+      "Low": 200.14999389648438,
+      "Close": 200.6300048828125,
+      "Volume": 55126100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-06 00:00:00-04:00",
+      "Open": 203.0,
+      "High": 205.6999969482422,
+      "Low": 202.0500030517578,
+      "Close": 203.9199981689453,
+      "Volume": 46539200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barchart.com",
+      "title": "Apple Just Got a Rare Downgrade. Should You Ditch AAPL Stock Now?",
+      "description": "Your browser of choice has not been tested for use with Barchart.com. If you have issues, please download one of the browsers listed here.\nJoin Barchart Premier to get Screeners that run automatically with the results emailed to you!\nFREE 30 Day Trial\n- Marke\u2026",
+      "url": "https://biztoc.com/x/e0993aa471e5e9c3",
+      "urlToImage": "https://biztoc.com/cdn/e0993aa471e5e9c3_s.webp",
+      "publishedAt": "2025-06-07T13:36:40Z",
+      "content": "Your browser of choice has not been tested for use with Barchart.com. If you have issues, please download one of the browsers listed here.Join Barchart Premier to get Screeners that run automatically\u2026 [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "denkapparat Operations GmbH Purchases New Position in Apple Inc. (NASDAQ:AAPL)",
+      "description": "denkapparat Operations GmbH purchased a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the fourth quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The fund purchased 5,102 shares of the iPhone maker\u2019s st\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/07/denkapparat-operations-gmbh-purchases-new-position-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-07T10:43:05Z",
+      "content": "denkapparat Operations GmbH purchased a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the fourth quarter, according to its most recent Form 13F filing with the Securities &amp; Exchange Comm\u2026 [+6155 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Ramirez Asset Management Inc. Sells 1,923 Shares of Apple Inc. (NASDAQ:AAPL)",
+      "description": "Ramirez Asset Management Inc. reduced its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% in the 4th quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 27,954 shares of the iPhone make\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/07/ramirez-asset-management-inc-sells-1923-shares-of-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-07T10:43:04Z",
+      "content": "Ramirez Asset Management Inc. reduced its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% in the 4th quarter, according to its most recent filing with the Securities and Exchange\u2026 [+7041 chars]"
+    }
+  ]
+}
