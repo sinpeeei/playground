@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-09",
+  "price": 201.45,
+  "marketCap": 3008816742400,
+  "peRatio": 31.378504,
+  "history": [
+    {
+      "Date": "2025-06-03 00:00:00-04:00",
+      "Open": 201.35000610351562,
+      "High": 203.77000427246094,
+      "Low": 200.9600067138672,
+      "Close": 203.27000427246094,
+      "Volume": 46381600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-04 00:00:00-04:00",
+      "Open": 202.91000366210938,
+      "High": 206.24000549316406,
+      "Low": 202.10000610351562,
+      "Close": 202.82000732421875,
+      "Volume": 43604000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-05 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.75,
+      "Low": 200.14999389648438,
+      "Close": 200.6300048828125,
+      "Volume": 55126100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-06 00:00:00-04:00",
+      "Open": 203.0,
+      "High": 205.6999969482422,
+      "Low": 202.0500030517578,
+      "Close": 203.9199981689453,
+      "Volume": 46539200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-09 00:00:00-04:00",
+      "Open": 204.38999938964844,
+      "High": 206.0,
+      "Low": 200.02000427246094,
+      "Close": 201.4499969482422,
+      "Volume": 72158456,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Recession Risk After The Jobs Report",
+      "description": "During the rebound from the early April lows, stocks have been highly correlated with economic data. A range of economic indicators is examined to assess recession risk.",
+      "url": "https://www.forbes.com/sites/bill_stone/2025/06/08/recession-risk-after-the-jobs-report/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/684588ec4ef5856b07207cbb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-08T13:19:46Z",
+      "content": "Stocks and the 10-year US Treasury yield rose after the solid monthly payrolls report on Friday. ... More Market performance has been closely tied to economic data since the early April stock lows.\r\n\u2026 [+9426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Terry Lane",
+      "title": "What To Expect in Markets This Week: May Inflation Data, Apple Conference, GameStop Earnings",
+      "description": "Coming up: May CPI Inflation Data, Apple Developers Conference, Consumer Sentiment, Earnings from GameStop, Oracle and Adobe",
+      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-may-inflation-data-apple-conference-gamestop-earnings-11749224",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kMLhXwHHuafbS5dNXsGrHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/investopedia_245/eaa84dbe8c16167202b3ae8f4001c4ad",
+      "publishedAt": "2025-06-08T09:00:00Z",
+      "content": "Bloomberg / Contributor / Getty Images\r\n Apple CEO Tim Cook will keynote at this year's Apple Worldwide Developers Conference in Cupertino, California, which starts Monday.\r\nNews from a tech giant, i\u2026 [+4158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Not-qz.com"
+      },
+      "author": "Catherine Baab",
+      "title": "Apple, Oracle, Adobe and inflation: Stocks and economic data to watch this week",
+      "description": "Expect news from Apple's WWDC, earnings reports from enterprise tech, and a key inflation reading that could affect the Fed's next interest rate decision",
+      "url": "https://not-qz.com/aapl-adbe-orcl-wwdc-cpi-stock-market-1851783831",
+      "urlToImage": "https://assets.qz.com/media/85efccea39631c8acef1293e5b25cfa0.jpg",
+      "publishedAt": "2025-06-08T09:00:00Z",
+      "content": "Last week, markets closed in the green, with the Dow, S&amp;P 500, and Nasdaq all notching gains amid a bumper crop of political drama. The most explosive news came from the sudden and very public ru\u2026 [+3683 chars]"
+    }
+  ]
+}
