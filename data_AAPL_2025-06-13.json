@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-13",
+  "price": 196.45,
+  "marketCap": 2934137946112,
+  "peRatio": 30.647427,
+  "history": [
+    {
+      "Date": "2025-06-09 00:00:00-04:00",
+      "Open": 204.38999938964844,
+      "High": 206.0,
+      "Low": 200.02000427246094,
+      "Close": 201.4499969482422,
+      "Volume": 72862600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-10 00:00:00-04:00",
+      "Open": 200.60000610351562,
+      "High": 204.35000610351562,
+      "Low": 200.57000732421875,
+      "Close": 202.6699981689453,
+      "Volume": 54672600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-11 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.5,
+      "Low": 198.41000366210938,
+      "Close": 198.77999877929688,
+      "Volume": 60989900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.77000427246094,
+      "Close": 196.4499969482422,
+      "Volume": 50778564,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Anker Japan\u3001USB-C\u3084USB-A\u3001SD/MicroSD\u30ab\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc\u30014K/60Hz\u5bfe\u5fdc\u306eHDMI\u30dd\u30fc\u30c8\u3092\u642d\u8f09\u3057\u305f\u30b3\u30f3\u30d1\u30af\u30c8\u306aUSB-C\u30cf\u30d6\u300cAnker Nano USB-C \u30cf\u30d6(7-in-1, 4K, HDMI)\u300d\u3092\u767a\u58f2\u3002",
+      "description": "Anker Japan\u304cUSB-C\u3084USB-A\u3001SD/MicroSD\u30ab\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc\u30014K/60Hz\u5bfe\u5fdc\u306eHDMI\u30dd\u30fc\u30c8\u3092\u642d\u8f09\u3057\u305f\u30b3\u30f3\u30d1\u30af\u30c8\u306aUSB-C\u30cf\u30d6\u300cAnker Nano USB-C \u30cf\u30d6(7-in-1, 4K, [\u2026]\nThe post Anker Japan\u3001USB-C\u3084USB-A\u3001SD/MicroSD\u30ab\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc\u30014K/60Hz\u5bfe\u5fdc\u306eHDMI\u30dd\u30fc\u30c8\u3092\u642d\u8f09\u3057\u305f\u30b3\u30f3\u30d1\u30af\u30c8\u306aUSB-C\u30cf\u30d6\u300cAnker Nano USB-C \u30cf\u30d6(7-in-1, 4K, HDMI)\u300d\u3092\u767a\u58f2\u3002 first appeared \u2026",
+      "url": "https://applech2.com/archives/20250613-anker-japan-nano-usb-c-7-in-1-hub.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Anker-Nano-USB-C-Hub-7-in-1-4K-HDMI-Hero.webp",
+      "publishedAt": "2025-06-12T21:24:08Z",
+      "content": "Anker JapanUSB-CUSB-ASD/MicroSD4K/60HzHDMIUSB-CAnker Nano USB-C (7-in-1, 4K, HDMI)\r\nAnker Japan20250610USB-C2USB-AUSB-C PDSD/MicroSD4K@60HzHDMIAnker Nano USB-C (7-in-1, 4K, HDMI) (A83D2)\r\nUSB-AUSB-C1\u2026 [+468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Satechi\u3001Qi2\u5bfe\u5fdc\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u30d1\u30c3\u30c9\u3068Apple Watch\u5145\u96fb\u5668\u3092\u5099\u3048\u305f\u6298\u308a\u305f\u305f\u307f\u5f0f\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u5668\u300cSatechi OntheGo 3-in-1\u300d\u306e\u65e5\u672c\u3067\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3002",
+      "description": "Satechi Japan\u304cQi2\u5bfe\u5fdc\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u30d1\u30c3\u30c9\u3068Apple Watch\u5145\u96fb\u5668\u3092\u5099\u3048\u305f\u6298\u308a\u305f\u305f\u307f\u5f0f\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u5668\u300cSatechi OntheGo 3-in-1\u300d\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 [\u2026]\nThe post Satechi\u3001Qi2\u5bfe\u5fdc\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u30d1\u30c3\u30c9\u3068Apple Watch\u5145\u96fb\u5668\u3092\u5099\u3048\u305f\u6298\u308a\u305f\u305f\u307f\u5f0f\u306e\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u5668\u300cSatechi OntheGo 3-in-1\u300d\u306e\u65e5\u672c\u3067\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250613-satechi-onthego-3-in-1-charger.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Satechi-OntheGo-3-in-1-Wireless-Charger-Hero.webp",
+      "publishedAt": "2025-06-12T18:21:18Z",
+      "content": "Satechi JapanQi2Apple WatchSatechi OntheGo 3-in-1\r\nSatechiSatechi JapanQi2Apple WatchQiSatechi OntheGo 3-in-1 (ST-QTG31x)\r\nSatechi 3-in-1iPhone15W2AirPodsApple Watch5WApple Watch Series 7/8/9/10/Ultr\u2026 [+234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Bill McColl",
+      "title": "Micron Technology to Spend $200B to Boost Domestic Chip Production",
+      "description": "Micron Technology on Thursday announced a $200 billion investment to boost semiconductor production in the U.S.",
+      "url": "https://www.investopedia.com/micron-technology-to-spend-usd200b-to-boost-domestic-chip-production-11753272",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KWFK6sPEL1Fqb5JtJ382_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/8d8bac67b4011c565c5206a216b54bbf",
+      "publishedAt": "2025-06-12T15:33:49Z",
+      "content": "David Paul Morris / Bloomberg via Getty Images\r\n Micron has secured federal, state, and local funding, which includes as much as $6.4 billion from the CHIPS and Science Act.\r\n<ul><li>Micron Technolog\u2026 [+2283 chars]"
+    }
+  ]
+}
