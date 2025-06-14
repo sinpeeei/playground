@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-14",
+  "price": 196.45,
+  "marketCap": 2934137946112,
+  "peRatio": 30.599688,
+  "history": [
+    {
+      "Date": "2025-06-09 00:00:00-04:00",
+      "Open": 204.38999938964844,
+      "High": 206.0,
+      "Low": 200.02000427246094,
+      "Close": 201.4499969482422,
+      "Volume": 72862600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-10 00:00:00-04:00",
+      "Open": 200.60000610351562,
+      "High": 204.35000610351562,
+      "Low": 200.57000732421875,
+      "Close": 202.6699981689453,
+      "Volume": 54672600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-11 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.5,
+      "Low": 198.41000366210938,
+      "Close": 198.77999877929688,
+      "Volume": 60989900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51362400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Apple (AAPL) Risks Falling Behind as WWDC's AI Reveal Disappoints",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_187a5c74-7db1-4390-8a29-bf2024d745da",
+      "urlToImage": null,
+      "publishedAt": "2025-06-13T16:42:11Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Competitor Analysis: Evaluating Apple And Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "description": "In today's rapidly changing and highly competitive business world, it is imperative for investors and industry observers to carefully assess companies before making investment choices. In this article, we will undertake a comprehensive industry comparison, ev\u2026",
+      "url": "https://biztoc.com/x/719c0857a428f430",
+      "urlToImage": "https://biztoc.com/cdn/719c0857a428f430_s.webp",
+      "publishedAt": "2025-06-13T15:17:31Z",
+      "content": "In today's rapidly changing and highly competitive business world, it is imperative for investors and industry observers to carefully assess companies before making investment choices. In this articl\u2026 [+147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Apple Inc. (NASDAQ:AAPL) Stock Holdings Lowered by Wedbush Securities Inc.",
+      "description": "Wedbush Securities Inc. reduced its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 5.1% during the 4th quarter, Holdings Channel reports. The fund owned 922,824 shares of the iPhone maker\u2019s stock after selling 49,633 shares during the period. Apple mak\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/13/apple-inc-nasdaqaapl-stock-holdings-lowered-by-wedbush-securities-inc/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-13T07:06:50Z",
+      "content": "Wedbush Securities Inc. reduced its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 5.1% during the 4th quarter, Holdings Channel reports. The fund owned 922,824 shares of the iPhone maker\u2019s st\u2026 [+6056 chars]"
+    }
+  ]
+}
