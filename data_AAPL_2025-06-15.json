@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-15",
+  "price": 196.45,
+  "marketCap": 2934137946112,
+  "peRatio": 30.599688,
+  "history": [
+    {
+      "Date": "2025-06-09 00:00:00-04:00",
+      "Open": 204.38999938964844,
+      "High": 206.0,
+      "Low": 200.02000427246094,
+      "Close": 201.4499969482422,
+      "Volume": 72862600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-10 00:00:00-04:00",
+      "Open": 200.60000610351562,
+      "High": 204.35000610351562,
+      "Low": 200.57000732421875,
+      "Close": 202.6699981689453,
+      "Volume": 54672600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-11 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.5,
+      "Low": 198.41000366210938,
+      "Close": 198.77999877929688,
+      "Volume": 60989900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51362400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Foster, Contributor, \n Michael Foster, Contributor\n https://www.forbes.com/sites/michaelfoster/",
+      "title": "3 \u2018Secret\u2019 Income Plays Throwing Off Huge 7.5%+ Dividend Yields",
+      "description": "I\u2019m just going to come out and say it: If you want to be financially independent (and who doesn\u2019t?), you must own closed-end funds (CEFs).",
+      "url": "https://www.forbes.com/sites/michaelfoster/2025/06/14/3-secret-income-plays-throwing-off-huge-75-dividend-yields/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/684994074c833a94a101eb66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-14T14:31:00Z",
+      "content": "Saving money concept Man hand putting Row and coin Write Finance Saving money concept Man hand ... More putting Row and coin Write Finance\r\ngetty\r\nIm just going to come out and say it: If you want to\u2026 [+4901 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Best Music Stocks To Watch Now \u2013 June 12th",
+      "description": "Apple, Amazon.com, and Alibaba Group are the three Music stocks to watch today, according to MarketBeat\u2019s stock screener tool. Music stocks are shares of publicly traded companies whose primary business is creating, distributing, or monetizing music\u2014this incl\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/14/best-music-stocks-to-watch-now-june-12th/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-14T09:52:48Z",
+      "content": "Apple, Amazon.com, and Alibaba Group are the three Music stocks to watch today, according to MarketBeat\u2019s stock screener tool. Music stocks are shares of publicly traded companies whose primary busin\u2026 [+3710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Holcombe Financial Inc. Makes New Investment in Apple Inc. (NASDAQ:AAPL)",
+      "description": "Holcombe Financial Inc. acquired a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the 4th quarter, HoldingsChannel.com reports. The fund acquired 90,965 shares of the iPhone maker\u2019s stock, valued at approximately $22,779,000. Apple makes up 18.8% \u2026",
+      "url": "https://www.etfdailynews.com/2025/06/14/holcombe-financial-inc-makes-new-investment-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-14T08:40:52Z",
+      "content": "Holcombe Financial Inc. acquired a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the 4th quarter, HoldingsChannel.com reports. The fund acquired 90,965 shares of the iPhone maker\u2019s stock\u2026 [+5966 chars]"
+    }
+  ]
+}
