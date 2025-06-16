@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-16",
+  "price": 198.42,
+  "marketCap": 2963561250816,
+  "peRatio": 30.906542,
+  "history": [
+    {
+      "Date": "2025-06-10 00:00:00-04:00",
+      "Open": 200.60000610351562,
+      "High": 204.35000610351562,
+      "Low": 200.57000732421875,
+      "Close": 202.6699981689453,
+      "Volume": 54672600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-11 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.5,
+      "Low": 198.41000366210938,
+      "Close": 198.77999877929688,
+      "Volume": 60989900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51362400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.2899932861328,
+      "High": 198.68499755859375,
+      "Low": 196.5635986328125,
+      "Close": 198.4199981689453,
+      "Volume": 42837838,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "247wallst.com",
+      "title": "Catches an Downgrade Stray From Needham",
+      "description": "Key Points\n \n \n \n \nNeedham downgraded Apple (NASDAQ: AAPL) from \u201cBuy\u201d to \u201cHold,\u201d citing mounting pressure points including slowing iPhone innovation, weakening China momentum, and AI product underperformance.\n \n \n \nApple remains the major tech laggard in AI d\u2026",
+      "url": "https://biztoc.com/x/52b5feb1b7eab4f9",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-15T15:26:52Z",
+      "content": "Key Points\r\nNeedham downgraded Apple (NASDAQ: AAPL) from Buy to Hold, citing mounting pressure points including slowing iPhone innovation, weakening China momentum, and AI product underperformance.\r\n\u2026 [+132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Concentrated Stock Positions: Compounding Versus Risk",
+      "description": "Allowing big winners to grow is a proven strategy employed by Buffett and Munger. The magic behind the strategy and the risks of concentrated positions are examined.",
+      "url": "https://www.forbes.com/sites/bill_stone/2025/06/15/concentrated-stock-positions-compounding-versus-risk/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6373cf2e0911ddd437dfbf60/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-15T11:00:00Z",
+      "content": "Warren Buffett and Charlie Munger used concentrated stock positions to compound wealth. The methods ... More behind the strategy are examined along with data on the risks. (Photo credit should read J\u2026 [+10914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rizwan Siddiqui",
+      "title": "Wedbush Reiterates $270 Target on Apple (AAPL), Citing Hopes for AI Execution",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the 10 best tech stocks to buy according to billionaires right now. On June 10, following Apple\u2019s keynote at the 2025...",
+      "url": "https://finance.yahoo.com/news/wedbush-reiterates-270-target-apple-094751477.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+      "publishedAt": "2025-06-15T09:47:51Z",
+      "content": "Apple Inc. (NASDAQ:AAPL) is one of the\u00a010 best tech stocks to buy according to billionaires\u00a0right now. On June 10, following Apples keynote at the 2025 Worldwide Developers Conference (WWDC), Wedbush\u2026 [+2291 chars]"
+    }
+  ]
+}
