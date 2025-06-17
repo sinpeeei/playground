@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-17",
+  "price": 195.64,
+  "marketCap": 2922039738368,
+  "peRatio": 30.426128,
+  "history": [
+    {
+      "Date": "2025-06-11 00:00:00-04:00",
+      "Open": 203.5,
+      "High": 204.5,
+      "Low": 198.41000366210938,
+      "Close": 198.77999877929688,
+      "Volume": 60989900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38890075683594,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38755801,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 1\u3092\u516c\u958b\u3002",
+      "description": "Apple\u304c\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 1\u3092\u516c\u958b\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Apple\u306f\u73fe\u5730\u6642\u95932025\u5e7406\u6708 [\u2026]\nThe post Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 1\u3092\u516c\u958b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250617-macos-15-6-sequoia-and-ios-18-6-beta-1.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/macOS-15-6-Sequoia-and-iOS-18-6-Beta-1-Hero.webp",
+      "publishedAt": "2025-06-16T20:56:14Z",
+      "content": "ApplemacOS 15.6 SequoiaiOS/iPadOS 18.6visionOS 2.6Beta 1\r\nApple20250609(WWDC25)macOS 26 TahoeiOS/iPadOS 26Beta0613macOS 15.6iOS/iPadOS 18.6tvOS 18.6visionOS 2.6watchOS 11.6Beta 1\r\n<ul><li>iOS 18.6 be\u2026 [+734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "TikTok will go dark June 19 unless Trump gives it another lifeline",
+      "description": "TikTok will go offline on June 19 unless it can find a buyer or President Trump extends its sale deadline again.",
+      "url": "https://finance.yahoo.com/news/tiktok-will-go-dark-june-19-unless-trump-gives-it-another-lifeline-201509054.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qtrT9doAW0OeDk3SOk1CpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTE-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/7dafc160-4ae2-11f0-9bae-c64c7ab42cc7",
+      "publishedAt": "2025-06-16T20:15:09Z",
+      "content": "TikTok is once again on the verge of being banned in the US.\r\nParent company ByteDance has until June 19 to reach a deal to either sell off the short-form video app or shut it down, leaving its 170 m\u2026 [+2713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "author": null,
+      "title": "fds.sdk.FactSetSupplyChain 0.1.0",
+      "description": "FactSet Supply Chain client library for Python",
+      "url": "https://pypi.org/project/fds.sdk.FactSetSupplyChain/",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "publishedAt": "2025-06-16T18:22:43Z",
+      "content": "Access the complex networks of key customer, suppliers, competitors and partners so that you can make insightful investment decisions. Relationship information is sourced from trusted primary sources\u2026 [+9537 chars]"
+    }
+  ]
+}
