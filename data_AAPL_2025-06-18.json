@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-18",
+  "price": 196.58,
+  "marketCap": 2936079646720,
+  "peRatio": 30.619938,
+  "history": [
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94500732421875,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 44864157,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "\u7c73Satechi\u3001\u6700\u5927\u30c7\u30fc\u30bf\u8ee2\u9001\u901f\u5ea640Gbps\u306eUSB4\u306b\u5bfe\u5fdc\u3057Mac mini\u306b\u91cd\u306d\u3066\u4f7f\u3048\u308b\u8584\u578b\u306eNVMe SSD\u30a8\u30f3\u30af\u30ed\u30fc\u30b8\u30e3\u30fc\u300cUSB4 Slim NVMe SSD Enclosure\u300d\u3092\u767a\u58f2\u3002",
+      "description": "\u7c73Satechi\u304c\u6700\u5927\u30c7\u30fc\u30bf\u8ee2\u9001\u901f\u5ea640Gbps\u306eUSB4\u306b\u5bfe\u5fdc\u3057Mac mini\u306b\u91cd\u306d\u3066\u4f7f\u3048\u308bNVMe SSD\u30a8\u30f3\u30af\u30ed\u30fc\u30b8\u30e3\u30fc\u300cUSB4 Slim NVMe SSD Enclosure\u300d\u3092\u767a\u58f2\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b [\u2026]\nThe post \u7c73Satechi\u3001\u6700\u5927\u30c7\u30fc\u30bf\u8ee2\u9001\u901f\u5ea640Gbps\u306eUSB4\u306b\u5bfe\u5fdc\u3057Mac mini\u306b\u91cd\u306d\u3066\u4f7f\u3048\u308b\u8584\u578b\u306eNVMe SSD\u30a8\u30f3\u30af\u30ed\u30fc\u30b8\u30e3\u30fc\u300cUSB4 Slim NVMe SSD Enclosure\u300d\u3092\u767a\u58f2\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250618-satechi-usb4-slim-nvme-ssd-enclosure-for-mac-mini.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Satechi-USB4-Slim-NVMe-SSD-Enclosure-Hero.webp",
+      "publishedAt": "2025-06-17T20:45:59Z",
+      "content": "Satechi40GbpsUSB4Mac miniNVMe SSDUSB4 Slim NVMe SSD Enclosure\r\nSatechi20250617Mac miniNVMe SSD1USB4SSDSatechi USB4 Slim NVMe SSD Enclosure (ST-EU4SNSS)\r\nExpand your storage and supercharge your workf\u2026 [+961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Goldman Sachs reiterates \u2018Buy\u2019 rating on Apple stock",
+      "description": "Goldman Sachs recently identified a group of stocks with strong growth potential, with Apple stock ranking among the top recommendations\u2026\nThe post Goldman Sachs reiterates \u2018Buy\u2019 rating on Apple stock appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2025/06/17/goldman-sachs-reiterates-buy-rating-on-apple-stock/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/12/241217_apple_logo.png",
+      "publishedAt": "2025-06-17T15:21:30Z",
+      "content": "Goldman Sachs recently identified a group of stocks with strong growth potential, according to its analysts. The firm considers these companies resilient and urges investors to buy them promptly, wit\u2026 [+973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Noi Mahoney",
+      "title": "Apple supplier Jabil plans $500M venture to build AI data centers",
+      "description": "Jabil plans to invest $500 million to expand its manufacturing and services across the Southeastern U.S. The post Apple supplier Jabil plans $500M venture to...",
+      "url": "https://finance.yahoo.com/news/apple-supplier-jabil-plans-500m-151101697.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YyXozoIzladKOLpzY_7g6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/freightwaves_373/7bb857ee824fd4447ae37dd88814a033",
+      "publishedAt": "2025-06-17T15:11:01Z",
+      "content": "Electronics component maker Jabil is betting on surging infrastructure demand for AI data centers throughout the U.S.\r\nJabil (NYSE: JBL) said on Tuesday that its investing $500 million over the next \u2026 [+2089 chars]"
+    }
+  ]
+}
