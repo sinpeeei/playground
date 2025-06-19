@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-19",
+  "price": 196.58,
+  "marketCap": 2936079646720,
+  "peRatio": 30.572319,
+  "history": [
+    {
+      "Date": "2025-06-12 00:00:00-04:00",
+      "Open": 199.0800018310547,
+      "High": 199.67999267578125,
+      "Low": 197.36000061035156,
+      "Close": 199.1999969482422,
+      "Volume": 43904600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Investigating Apple's Standing In Technology Hardware, Storage & Peripherals Industry Compared To Competitors",
+      "description": "In today's rapidly changing and highly competitive business world, it is imperative for investors and industry observers to carefully assess companies before making investment choices. In this article, we will undertake a comprehensive industry comparison, ev\u2026",
+      "url": "https://biztoc.com/x/aeb90d9a7f7fbe95",
+      "urlToImage": "https://biztoc.com/cdn/aeb90d9a7f7fbe95_s.webp",
+      "publishedAt": "2025-06-18T15:16:29Z",
+      "content": "In today's rapidly changing and highly competitive business world, it is imperative for investors and industry observers to carefully assess companies before making investment choices. In this articl\u2026 [+147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "author": "Caleb Naysmith",
+      "title": "\u2018It Has No Utility\u2019: Warren Buffett Doesn\u2019t Care How High Gold Goes, He Isn\u2019t a Buyer",
+      "description": "Warren Buffett rejects gold as unproductive, urging investors to favor income-generating assets over fear-driven, sentiment-based stores of value.",
+      "url": "https://www.barchart.com/story/news/32941452/it-has-no-utility-warren-buffett-doesnt-care-how-high-gold-goes-he-isnt-a-buyer",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QXqWAjSC2QzKzKgF8pZg0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTI-/https://media.zenfs.com/en/barchart_com_477/91824b233e343289f509dff4ebe5b6bb",
+      "publishedAt": "2025-06-18T14:54:52Z",
+      "content": "A close-up shot of Warren Buffett_ Image by mark reinstein via Shutterstock_\r\nWarren Buffett, the Oracle of Omaha and chairman of Berkshire Hathaway (BRK.B) (BRK.A) has never minced words when it com\u2026 [+3738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barchart.com",
+      "title": "Apple Just Snatched Back the Top Spot in China Smartphone Sales. Should You Buy AAPL Stock Here?",
+      "description": "",
+      "url": "https://biztoc.com/x/1ea5c35dbd794329",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-18T14:31:28Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Iran-Israel conflict impact oil prices? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did U.S. Steel stop \u2026 [+774 chars]"
+    }
+  ]
+}
