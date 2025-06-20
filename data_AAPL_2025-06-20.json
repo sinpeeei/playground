@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-20",
+  "price": 201.0,
+  "marketCap": 3002095632384,
+  "peRatio": 31.259722,
+  "history": [
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.23500061035156,
+      "High": 201.6999969482422,
+      "Low": 196.85960388183594,
+      "Close": 201.0,
+      "Volume": 95316548,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Parallels\u3001macOS 26 Tahoe\u306eBeta\u7248\u3092\u642d\u8f09\u3057\u305fMac\u3084macOS 26\u4eee\u60f3\u30de\u30b7\u30f3\u3067\u767a\u751f\u3057\u3066\u3044\u308b\u4e0d\u5177\u5408\u30ea\u30b9\u30c8\u3092\u516c\u958b\u3002",
+      "description": "Parallels\u304cmacOS 26 Tahoe\u306eBeta\u7248\u3092\u642d\u8f09\u3057\u305fMac\u3084macOS 26\u4eee\u60f3\u30de\u30b7\u30f3\u3067\u767a\u751f\u3057\u3066\u3044\u308b\u4e0d\u5177\u5408\u30ea\u30b9\u30c8\u3092\u516c\u958b\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Alludo(\u65e7Corel)\u5098\u4e0b\u306eParallel [\u2026]\nThe post Parallels\u3001macOS 26 Tahoe\u306eBeta\u7248\u3092\u642d\u8f09\u3057\u305fMac\u3084macOS 26\u4eee\u60f3\u30de\u30b7\u30f3\u3067\u767a\u751f\u3057\u3066\u3044\u308b\u4e0d\u5177\u5408\u30ea\u30b9\u30c8\u3092\u516c\u958b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250620-macos-26-tahoe-parallels-issues.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/macOS-26-Tahoe-parallels-issues-Hero.webp",
+      "publishedAt": "2025-06-19T21:27:24Z",
+      "content": "ParallelsmacOS 26 TahoeBetaMacmacOS 26\r\nAlludo(Corel)Parallels International GmbH.20250609AppleWWDC25macOSmacOS 26 TahoemacOS 15 SequoiaMacmacOS 26 TahoeBetaMac/\r\nmacOS 15 SequoiaMacmacOS 26 Tahoe\r\nm\u2026 [+739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "In-Depth Analysis: Apple Versus Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "description": "In today's rapidly changing and fiercely competitive business landscape, it is vital for investors and industry enthusiasts to carefully evaluate companies. In this article, we will perform a comprehensive industry comparison, evaluating Apple AAPL against it\u2026",
+      "url": "https://biztoc.com/x/ff8a2f278adab97c",
+      "urlToImage": "https://biztoc.com/cdn/ff8a2f278adab97c_s.webp",
+      "publishedAt": "2025-06-19T15:09:05Z",
+      "content": "In today's rapidly changing and fiercely competitive business landscape, it is vital for investors and industry enthusiasts to carefully evaluate companies. In this article, we will perform a compreh\u2026 [+142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "247wallst.com",
+      "title": "Apple May Sell Folding iPhone to Jump-Start Troubled Sales",
+      "description": "Apple Inc. (NASDAQ: AAPL) may launch an expensive folding iPhone. Major competitor Samsung already has its folding phone product Z Fold6. It sells for as much as $1,900.\n \n \n \n24/7 Wall St. Key Points:\n \n \n \n \nApple Inc. (NASDAQ: AAPL) reportedly may launch a\u2026",
+      "url": "https://biztoc.com/x/f96496e6089ca236",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-19T14:13:03Z",
+      "content": "Apple Inc. (NASDAQ: AAPL) may launch an expensive folding iPhone. Major competitor Samsung already has its folding phone product Z Fold6. It sells for as much as $1,900.\r\n24/7 Wall St. Key Points:\r\nA\u2026 [+134 chars]"
+    }
+  ]
+}
