@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-21",
+  "price": 201.0,
+  "marketCap": 3002095632384,
+  "peRatio": 31.357256,
+  "history": [
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 95914700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Robbins Geller Rudman & Dowd LLP",
+      "title": "INVESTOR NOTICE: Apple Inc. (AAPL) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Robbins Geller",
+      "description": "SAN DIEGO, June 20, 2025 (GLOBE NEWSWIRE) -- The law firm of Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Apple Inc. (NASDAQ: AAPL) securities between June 10, 2024 and June 9, 2025, inclusive (the \u201cClass Period\u201d), have until Aug\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/20/3102972/0/en/INVESTOR-NOTICE-Apple-Inc-AAPL-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit-Robbins-Geller.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a2879a30-a9fa-457e-97f6-7e2cd2528b7b",
+      "publishedAt": "2025-06-20T22:15:00Z",
+      "content": "SAN DIEGO, June 20, 2025 (GLOBE NEWSWIRE) -- The law firm of Robbins Geller Rudman &amp; Dowd LLP announces that purchasers or acquirers of Apple Inc. (NASDAQ: AAPL) securities between June 10, 2024 \u2026 [+5849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tipranks.com",
+      "title": "NVDA, TSLA, AAPL: Trump Rips \u2018Too Late\u2019 Fed Chair for Not Cutting Interest Rates",
+      "description": "U.S. President Donald Trump is once again criticizing Federal Reserve Chair Jerome Powell after the central bank elected to hold interest rates steady.\nConfident Investing Starts Here:\n- Easily unpack a company's performance with TipRanks' new KPI Data for sm\u2026",
+      "url": "https://biztoc.com/x/e4f0d4bba77046a1",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-06-20T19:55:44Z",
+      "content": "U.S. President Donald Trump is once again criticizing Federal Reserve Chair Jerome Powell after the central bank elected to hold interest rates steady.Confident Investing Starts Here:- Easily unpack \u2026 [+148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Time to Think Different: Tim Cook\u2019s leadership has run its course at Apple",
+      "description": "As of June 20, 2025, Apple\u2019s stock price sits lower than it did in Dec. 2023, a troubling sign for a company once synonymous with innovation\u2026\nThe post Time to Think Different: Tim Cook\u2019s leadership has run its course at Apple appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2025/06/20/time-to-think-different-tim-cooks-leadership-has-run-its-course-at-apple/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2022/05/2205_02_tim_cook.png",
+      "publishedAt": "2025-06-20T18:06:01Z",
+      "content": "Apple CEO Tim Cook\r\nBy MacDailyNews staff\r\nToday, June 20, 2025, Apples stock price sits lower than it did in December 2023, a troubling sign for a company once synonymous with innovation and market \u2026 [+5924 chars]"
+    }
+  ]
+}
