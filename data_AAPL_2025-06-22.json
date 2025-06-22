@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-22",
+  "price": 201.0,
+  "marketCap": 3002095632384,
+  "peRatio": 31.357256,
+  "history": [
+    {
+      "Date": "2025-06-13 00:00:00-04:00",
+      "Open": 199.72999572753906,
+      "High": 200.3699951171875,
+      "Low": 195.6999969482422,
+      "Close": 196.4499969482422,
+      "Volume": 51447300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 95914700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Music Stocks Worth Watching \u2013 June 19th",
+      "description": "Amazon.com, Apple, and Alibaba Group are the three Music stocks to watch today, according to MarketBeat\u2019s stock screener tool. Music stocks are shares of publicly traded companies operating in the music industry\u2014think record labels, streaming services, music \u2026",
+      "url": "https://www.etfdailynews.com/2025/06/21/music-stocks-worth-watching-june-19th/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/amazoncom-inc-logo-1200x675.jpg&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-21T08:08:57Z",
+      "content": "Amazon.com, Apple, and Alibaba Group are the three Music stocks to watch today, according to MarketBeat\u2019s stock screener tool. Music stocks are shares of publicly traded companies operating in the mu\u2026 [+3739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by REAP Financial Group LLC",
+      "description": "REAP Financial Group LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.9% during the fourth quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The firm owned 46,712 shares of t\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/21/apple-inc-nasdaqaapl-shares-sold-by-reap-financial-group-llc/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-21T07:51:10Z",
+      "content": "REAP Financial Group LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.9% during the fourth quarter, according to the company in its most recent disclosure with the Securities and \u2026 [+6144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Brucke Financial Inc. Makes New Investment in Apple Inc. (NASDAQ:AAPL)",
+      "description": "Brucke Financial Inc. acquired a new position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the fourth quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The fund acquired 12,021 shares of the iPhone maker\u2019s stock, va\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/21/brucke-financial-inc-makes-new-investment-in-apple-inc-nasdaqaapl/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-21T07:51:09Z",
+      "content": "Brucke Financial Inc. acquired a new position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the fourth quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The\u2026 [+6649 chars]"
+    }
+  ]
+}
