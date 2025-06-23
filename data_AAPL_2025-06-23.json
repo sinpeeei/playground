@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-23",
+  "price": 201.5,
+  "marketCap": 3009563590656,
+  "peRatio": 31.435259,
+  "history": [
+    {
+      "Date": "2025-06-16 00:00:00-04:00",
+      "Open": 197.3000030517578,
+      "High": 198.69000244140625,
+      "Low": 196.55999755859375,
+      "Close": 198.4199981689453,
+      "Volume": 43020700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 95914700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.625,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55481396,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Geopolitical Market Risk: Israel-Iran War & Oil",
+      "description": "The average return on the stocks is negative for the week and month after geopolitical conflicts. The economic risk is higher oil prices, a headwind to global growth.",
+      "url": "https://www.forbes.com/sites/bill_stone/2025/06/22/geopolitical-market-risk-israel-iran-war--oil/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685809ea34fd5db17c79a4b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-22T14:15:37Z",
+      "content": "With the US striking Iranian nuclear sites, there is a concern that a spreading conflict could ... More impact oil supply and thus choke global economic growth. This piece examines the impact of past\u2026 [+8861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nina Moothedath",
+      "title": "Nvidia: How the chipmaker evolved from a gaming startup to an AI giant",
+      "description": "Here\u2019s a look at Nvidia\u2019s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.",
+      "url": "https://finance.yahoo.com/news/nvidia-how-the-chipmaker-evolved-from-a-gaming-startup-to-an-ai-giant-140140110.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/O2go3YZyWHEtB8Be.igcjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/d9833bf0-d7df-11ef-bbb3-ef211e543eca",
+      "publishedAt": "2025-06-22T14:01:40Z",
+      "content": "Over the past two decades, Nvidia (NVDA) has skyrocketed into global conversation.\r\nThe semiconductor company is considered an international leader in the design and manufacturing of computer chips a\u2026 [+10387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Playsometoys\u3001Apple IIe\u3092\u30a4\u30e1\u30fc\u30b8\u3057\u305f\u9ad8\u30558.5cm\u306e\u30d5\u30a3\u30ae\u30e5\u30a2\u300cClassicbot IIe\u300d\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3002",
+      "description": "Playsometoys\u304cApple IIe\u3092\u30a4\u30e1\u30fc\u30b8\u3057\u305f\u9ad8\u30558.5cm\u306e\u30d5\u30a3\u30ae\u30e5\u30a2\u300cClassicbot IIe\u300d\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Macintosh\u306e\u30c7\u30b6\u30a4\u30f3\u3092\u30a4\u30e1\u30fc\u30b8\u3057\u305f\u30d5\u30a3\u30ae\u30e5\u30a2Cla [\u2026]\nThe post Playsometoys\u3001Apple IIe\u3092\u30a4\u30e1\u30fc\u30b8\u3057\u305f\u9ad8\u30558.5cm\u306e\u30d5\u30a3\u30ae\u30e5\u30a2\u300cClassicbot IIe\u300d\u306e\u8ca9\u58f2\u3092\u958b\u59cb\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250622-classicbot-iie-now-available.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2024/11/Classicbot-IIe-pre-order-now-Hero.jpg",
+      "publishedAt": "2025-06-22T12:10:33Z",
+      "content": "PlaysometoysApple IIe8.5cmClassicbot IIe\r\nMacintoshClassicbotPlaySomeToys20250619Apple1983Apple IIeClassicbot IIe\r\nInspired by our beloved classic IIe computer, this adorable robot figure brings a no\u2026 [+235 chars]"
+    }
+  ]
+}
