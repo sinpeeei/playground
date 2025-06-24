@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-24",
+  "price": 200.3,
+  "marketCap": 2991640805376,
+  "peRatio": 31.150856,
+  "history": [
+    {
+      "Date": "2025-06-17 00:00:00-04:00",
+      "Open": 197.1999969482422,
+      "High": 198.38999938964844,
+      "Low": 195.2100067138672,
+      "Close": 195.63999938964844,
+      "Volume": 38856200,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 96813500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.6300048828125,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55814300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-24 00:00:00-04:00",
+      "Open": 202.58999633789062,
+      "High": 203.44000244140625,
+      "Low": 200.1999969482422,
+      "Close": 200.3000030517578,
+      "Volume": 53899923,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Robert Barone, Contributor, \n Robert Barone, Contributor\n https://www.forbes.com/sites/greatspeculations/people/robertbarone/",
+      "title": "Incoming Data Points To An Economic Slowdown: Fed Behind The Curve",
+      "description": "Incoming data continues to show softness, including Retail Sales and Industrial Production. Consumer Sentiment is on a downward trend.",
+      "url": "https://www.forbes.com/sites/greatspeculations/2025/06/23/incoming-data-points-to-an-economic-slowdown-fed-behind-the-curve/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6859bf62e544a85c424e7fe7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-23T21:27:32Z",
+      "content": "Hostilities in the Middle East caused some angst in the equity markets, but not as much as one might have expected. The major indexes were only down between -1% and -2% for the week as shown in the t\u2026 [+9960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Spigen Japan\u3001iMac G3\u30c7\u30b6\u30a4\u30f3\u306eClassic C1\u30b7\u30ea\u30fc\u30ba\u304b\u3089Apple Watch\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u5668\u5bfe\u5fdc\u306e\u300cSpigen Apple Watch Classic C1 \u5145\u96fb\u30b9\u30bf\u30f3\u30c9\u300d\u3092\u767a\u58f2\u3002",
+      "description": "Spigen Japan\u304ciMac G3\u30c7\u30b6\u30a4\u30f3\u306eClassic C1\u30b7\u30ea\u30fc\u30ba\u304b\u3089Apple Watch\u5145\u96fb\u30b9\u30bf\u30f3\u30c9\u300cSpigen Apple Watch Classic C1 Charger Stand\u300d\u3092\u767a\u58f2\u3057\u3066\u3044 [\u2026]\nThe post Spigen Japan\u3001iMac G3\u30c7\u30b6\u30a4\u30f3\u306eClassic C1\u30b7\u30ea\u30fc\u30ba\u304b\u3089Apple Watch\u30ef\u30a4\u30e4\u30ec\u30b9\u5145\u96fb\u5668\u5bfe\u5fdc\u306e\u300cSpigen Apple Watch Classic C1 \u5145\u96fb\u30b9\u30bf\u30f3\u30c9\u300d\u3092\u767a\u58f2\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250624-spigen-japan-apple-watch-classic-c1-charger-stand.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Spigen-Japan-Apple-Watch-Classic-C1-Charger-Stand-Hero.webp",
+      "publishedAt": "2025-06-23T21:18:03Z",
+      "content": "Spigen JapaniMac G3Classic C1Apple WatchSpigen Apple Watch Classic C1 Charger Stand\r\nSpigenApple1998iMac G3Apple WatchSpigen Apple Watch Classic C1 (AMP093xx)\r\nAppleiMac G3Apple Watch[\u2026]Apple Watch U\u2026 [+483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Apple\u3001macOS 26 Tahoe\u3084iOS 26/iPadOS 26\u306eBeta 2\u3067\u6b63\u5e38\u306b\u8d77\u52d5\u3057\u306a\u304f\u306a\u3063\u305fMac\u3084iPhone/iPad\u306e\u554f\u984c\u3092\u691c\u51fa\u3057\u3001\u89e3\u6c7a\u3092\u8a66\u307f\u308b\u300cRecovery Assistant\u300d\u6a5f\u80fd\u3092\u8ffd\u52a0\u3002",
+      "description": "Apple\u304cmacOS 26 Tahoe\u3084iOS 26/iPadOS 26\u306eBeta 2\u3067\u6b63\u5e38\u306b\u8d77\u52d5\u3057\u306a\u304f\u306a\u3063\u305fMac\u3084iPhone/iPad\u306e\u554f\u984c\u3092\u691c\u51fa\u3057\u3001\u89e3\u6c7a\u3092\u8a66\u307f\u308b\u300cRecovery Assistant\u300d\u6a5f\u80fd\u3092\u8ffd [\u2026]\nThe post Apple\u3001macOS 26 Tahoe\u3084iOS 26/iPadOS 26\u306eBeta 2\u3067\u6b63\u5e38\u306b\u8d77\u52d5\u3057\u306a\u304f\u306a\u3063\u305fMac\u3084iPhone/iPad\u306e\u554f\u984c\u3092\u691c\u51fa\u3057\u3001\u89e3\u6c7a\u3092\u8a66\u307f\u308b\u300cRecovery Assistant\u300d\u6a5f\u80fd\u3092\u8ffd\u52a0\u3002 first appeared on AAPL C\u2026",
+      "url": "https://applech2.com/archives/20250624-macos-26-tahoe-and-ios-26-add-recovery-assistant.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/macOS-26-Tahoe-and-ios-26-add-recovery-assistant-Hero.webp",
+      "publishedAt": "2025-06-23T21:15:56Z",
+      "content": "ApplemacOS 26 TahoeiOS 26/iPadOS 26Beta 2MaciPhone/iPadRecovery Assistant\r\nApple20250623MaciPhone/iPadVision ProWWDC25macOS 26 TahoeiOS/iPadOS 26visionOS 26Beta 2macOS 26 TahoeiOS/iPadOS 26 (Recovery\u2026 [+400 chars]"
+    }
+  ]
+}
