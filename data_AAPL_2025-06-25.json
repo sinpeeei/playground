@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-25",
+  "price": 201.56,
+  "marketCap": 3010459860992,
+  "peRatio": 31.346813,
+  "history": [
+    {
+      "Date": "2025-06-18 00:00:00-04:00",
+      "Open": 195.94000244140625,
+      "High": 197.57000732421875,
+      "Low": 195.07000732421875,
+      "Close": 196.5800018310547,
+      "Volume": 45394700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 96813500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.6300048828125,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55814300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-24 00:00:00-04:00",
+      "Open": 202.58999633789062,
+      "High": 203.44000244140625,
+      "Low": 200.1999969482422,
+      "Close": 200.3000030517578,
+      "Volume": 54064000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-25 00:00:00-04:00",
+      "Open": 201.4199981689453,
+      "High": 203.66000366210938,
+      "Low": 200.62010192871094,
+      "Close": 201.55999755859375,
+      "Volume": 39014815,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Apple Silicon Mac\u3067x86\u30a8\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u30e2\u30fc\u30c9\u3092\u5229\u7528\u3057Windows 10 22H2/Server 2019\u4eee\u60f3\u30de\u30b7\u30f3\u306e\u4f5c\u6210\u3068\u5b9f\u884c\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cParallels Desktop for Mac v20.4.0\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3002",
+      "description": "Apple Silicon Mac\u3067x86\u30a8\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u30e2\u30fc\u30c9\u3092\u5229\u7528\u3057Windows 10 22H2/Server 2019\u4eee\u60f3\u30de\u30b7\u30f3\u306e\u4f5c\u6210\u3068\u5b9f\u884c\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cParallels Desktop for Mac v [\u2026]\nThe post Apple Silicon Mac\u3067x86\u30a8\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u30e2\u30fc\u30c9\u3092\u5229\u7528\u3057Windows 10 22H2/Server 2019\u4eee\u60f3\u30de\u30b7\u30f3\u306e\u4f5c\u6210\u3068\u5b9f\u884c\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cParallels Desktop for Mac v20.4.0\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3002 first appeare\u2026",
+      "url": "https://applech2.com/archives/20250625-parallels-desktop-for-mac-v20-4-0-update.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Parallels-Desktop-for-Mac-20-4-0-features-1.webp",
+      "publishedAt": "2025-06-24T21:47:53Z",
+      "content": "Apple Silicon Macx86Windows 10 22H2/Server 2019Parallels Desktop for Mac v20.4.0\r\nAlludo(Corel)Parallels International GmbH.2025062404MacParallels Desktop 20 for Mac v20.3.0Parallels Desktop 20 for M\u2026 [+1290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "author": "jakub@quantjourney.pro",
+      "title": "quantjourney-bidask added to PyPI",
+      "description": "Efficient bid-ask spread estimator from OHLC prices",
+      "url": "https://pypi.org/project/quantjourney-bidask/",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "publishedAt": "2025-06-24T19:57:03Z",
+      "content": "The quantjourney-bidask library provides an efficient estimator for calculating bid-ask spreads from open, high, low, and close (OHLC) prices, based on the methodology described in:\r\nArdia, D., Guido\u2026 [+3670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ETF Daily News"
+      },
+      "author": "MarketBeat News",
+      "title": "Promising Large Cap Stocks To Add to Your Watchlist \u2013 June 22nd",
+      "description": "Tesla, NVIDIA, Invesco QQQ, Circle Internet Group, and Apple are the five Large Cap stocks to watch today, according to MarketBeat\u2019s stock screener tool. Large-cap stocks are shares of companies whose total market value typically exceeds $10 billion. These se\u2026",
+      "url": "https://www.etfdailynews.com/2025/06/24/promising-large-cap-stocks-to-add-to-your-watchlist-june-22nd/",
+      "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+      "publishedAt": "2025-06-24T17:16:44Z",
+      "content": "Tesla, NVIDIA, Invesco QQQ, Circle Internet Group, and Apple are the five Large Cap stocks to watch today, according to MarketBeat\u2019s stock screener tool. Large-cap stocks are shares of companies whos\u2026 [+5655 chars]"
+    }
+  ]
+}
