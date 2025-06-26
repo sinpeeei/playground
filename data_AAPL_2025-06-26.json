@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-26",
+  "price": 201.0,
+  "marketCap": 3002095632384,
+  "peRatio": 31.259722,
+  "history": [
+    {
+      "Date": "2025-06-20 00:00:00-04:00",
+      "Open": 198.24000549316406,
+      "High": 201.6999969482422,
+      "Low": 196.86000061035156,
+      "Close": 201.0,
+      "Volume": 96813500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.6300048828125,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55814300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-24 00:00:00-04:00",
+      "Open": 202.58999633789062,
+      "High": 203.44000244140625,
+      "Low": 200.1999969482422,
+      "Close": 200.3000030517578,
+      "Volume": 54064000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-25 00:00:00-04:00",
+      "Open": 201.4499969482422,
+      "High": 203.6699981689453,
+      "Low": 200.6199951171875,
+      "Close": 201.55999755859375,
+      "Volume": 39525700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-26 00:00:00-04:00",
+      "Open": 201.42999267578125,
+      "High": 202.61500549316406,
+      "Low": 199.4600067138672,
+      "Close": 201.0,
+      "Volume": 50117398,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "Morgan Stanley sees higher-than-expected iPhone and iPad sales for June quarter",
+      "description": "Morgan Stanley expects that \u201cdeep\u201d 618 Festival channel promotions in China are driving higher-than-expected iPhone and iPad\u2026\nThe post Morgan Stanley sees higher-than-expected iPhone and iPad sales for June quarter appeared first on MacDailyNews.",
+      "url": "https://macdailynews.com/2025/06/25/morgan-stanley-sees-higher-than-expected-iphone-and-ipad-sales-for-june-quarter/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2025/04/250423_ipad_11th_generation.png",
+      "publishedAt": "2025-06-25T21:26:30Z",
+      "content": "Apples new iPad (11th generation)\r\nMorgan Stanley expects that deep 618 Festival channel promotions in China are driving higher-than-expected iPhone and iPad sell-through for the June quarter. The fi\u2026 [+1170 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "The Rosen Law Firm PA",
+      "title": "ROSEN, A GLOBAL AND LEADING LAW FIRM, Encourages Apple Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action \u2013 AAPL",
+      "description": "NEW YORK, June 25, 2025 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of securities of Apple Inc. (NASDAQ: AAPL) between June 10, 2024 and June 9, 2025, both \u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/25/3105483/673/en/ROSEN-A-GLOBAL-AND-LEADING-LAW-FIRM-Encourages-Apple-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-AAPL.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "publishedAt": "2025-06-25T21:18:00Z",
+      "content": "NEW YORK, June 25, 2025 (GLOBE NEWSWIRE) -- \r\nWHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of securities of Apple Inc\u2026 [+3682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Bronstein, Gewirtz & Grossman, LLC",
+      "title": "AAPL INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Apple Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "description": "NEW YORK, June 25, 2025 (GLOBE NEWSWIRE) -- Attorney Advertising -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been filed against Apple Inc. (\u201cApple\u201d or \u201cthe Company\u201d) (NASDAQ: AAPL\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/06/25/3105422/9788/en/AAPL-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Apple-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
+      "publishedAt": "2025-06-25T20:00:00Z",
+      "content": "NEW YORK, June 25, 2025 (GLOBE NEWSWIRE) -- Attorney Advertising -- Bronstein, Gewirtz &amp; Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been f\u2026 [+2408 chars]"
+    }
+  ]
+}
