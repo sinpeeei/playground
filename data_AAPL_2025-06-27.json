@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-27",
+  "price": 201.08,
+  "marketCap": 3003290746880,
+  "peRatio": 31.369736,
+  "history": [
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.6300048828125,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55814300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-24 00:00:00-04:00",
+      "Open": 202.58999633789062,
+      "High": 203.44000244140625,
+      "Low": 200.1999969482422,
+      "Close": 200.3000030517578,
+      "Volume": 54064000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-25 00:00:00-04:00",
+      "Open": 201.4499969482422,
+      "High": 203.6699981689453,
+      "Low": 200.6199951171875,
+      "Close": 201.55999755859375,
+      "Volume": 39525700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-26 00:00:00-04:00",
+      "Open": 201.42999267578125,
+      "High": 202.63999938964844,
+      "Low": 199.4600067138672,
+      "Close": 201.0,
+      "Volume": 50799100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-27 00:00:00-04:00",
+      "Open": 201.89500427246094,
+      "High": 203.22000122070312,
+      "Low": 200.22000122070312,
+      "Close": 201.0800018310547,
+      "Volume": 70534466,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Portnoy Law",
+      "title": "Apple Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. August 19, 2025 Deadline to file Lead Plaintiff Motion.",
+      "description": "Investors can contact the law firm at no cost to learn more about recovering their losses  LOS ANGELES, June  26, 2025  (GLOBE NEWSWIRE) -- The Portnoy...",
+      "url": "https://www.globenewswire.com/news-release/2025/06/26/3106320/0/en/Apple-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-August-19-2025-Deadline-to-file-Lead-Plaintiff-Motion.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ea0dd9c0-6e41-4d5a-ad27-b277677af6df",
+      "publishedAt": "2025-06-26T22:33:00Z",
+      "content": "Investors can contact the law firm at no cost to learn more about recovering their losses\r\nLOS ANGELES, June 26, 2025 (GLOBE NEWSWIRE) -- The Portnoy Law Firm advises Apple Inc. (\"Apple\" or the \"Comp\u2026 [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "GraniteShares",
+      "title": "GraniteShares Announces Forward Split of PTIR",
+      "description": "NEW YORK, June 26, 2025 (GLOBE NEWSWIRE) -- GraniteShares has announced it will execute a forward share split for the GraniteShares 2x Long PLTR (the \u201cFund\u201d). The total market value of the shares outstanding will not be affected as a result of these splits.",
+      "url": "https://www.globenewswire.com/news-release/2025/06/26/3106301/0/en/GraniteShares-Announces-Forward-Split-of-PTIR.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ac6beda8-a574-42f0-bb97-9376bec2c1e0",
+      "publishedAt": "2025-06-26T21:45:00Z",
+      "content": "NEW YORK, June 26, 2025 (GLOBE NEWSWIRE) -- GraniteShares has announced it will execute a forward share split for the GraniteShares 2x Long PLTR (the Fund). The total market value of the shares outst\u2026 [+17981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Amazon\u3001Amazon Music Unlimited\u4f1a\u54e1\u5411\u3051\u306bAudible\u304b\u3089\u6bce\u67081\u518a\u306e\u30aa\u30fc\u30c7\u30a3\u30aa\u30d6\u30c3\u30af\u3092\u63d0\u4f9b\u3002",
+      "description": "Amazon\u304cAmazon Music Unlimited\u4f1a\u54e1\u5411\u3051\u306bAudible\u304b\u3089\u6bce\u67081\u518a\u306e\u30aa\u30fc\u30c7\u30a3\u30aa\u30d6\u30c3\u30af\u3092\u63d0\u4f9b\u3059\u308b\u3068\u767a\u8868\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Amazon Japan\u306f\u65e5\u672c\u6642\u95932025\u5e7406\u670826\u65e5\u3088 [\u2026]\nThe post Amazon\u3001Amazon Music Unlimited\u4f1a\u54e1\u5411\u3051\u306bAudible\u304b\u3089\u6bce\u67081\u518a\u306e\u30aa\u30fc\u30c7\u30a3\u30aa\u30d6\u30c3\u30af\u3092\u63d0\u4f9b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250627-amazon-music-unlimited-offer-audible.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/06/Amazon-Music-Unlimited-offers-Audible-Hero.webp",
+      "publishedAt": "2025-06-26T20:32:20Z",
+      "content": "AmazonAmazon Music UnlimitedAudible1\r\nAmazon Japan20250626Amazon Music UnlimitedAudible1\r\nAmazon Music UnlimitedAudible9011\r\nAmazon Music UnlimitedAudible Amazon.co.jp\r\nAmazon Music Unlimited90Audibl\u2026 [+119 chars]"
+    }
+  ]
+}
