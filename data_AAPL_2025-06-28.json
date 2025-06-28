@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-06-28",
+  "price": 201.08,
+  "marketCap": 3003290746880,
+  "peRatio": 31.369736,
+  "history": [
+    {
+      "Date": "2025-06-23 00:00:00-04:00",
+      "Open": 201.6300048828125,
+      "High": 202.3000030517578,
+      "Low": 198.9600067138672,
+      "Close": 201.5,
+      "Volume": 55814300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-24 00:00:00-04:00",
+      "Open": 202.58999633789062,
+      "High": 203.44000244140625,
+      "Low": 200.1999969482422,
+      "Close": 200.3000030517578,
+      "Volume": 54064000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-25 00:00:00-04:00",
+      "Open": 201.4499969482422,
+      "High": 203.6699981689453,
+      "Low": 200.6199951171875,
+      "Close": 201.55999755859375,
+      "Volume": 39525700,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-26 00:00:00-04:00",
+      "Open": 201.42999267578125,
+      "High": 202.63999938964844,
+      "Low": 199.4600067138672,
+      "Close": 201.0,
+      "Volume": 50799100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-27 00:00:00-04:00",
+      "Open": 201.88999938964844,
+      "High": 203.22000122070312,
+      "Low": 200.0,
+      "Close": 201.0800018310547,
+      "Volume": 73114100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "SamTinnerholm",
+      "title": "Show HN: StrateQueue- Bridge backtest and live trading with microsecond latency",
+      "description": "My co-founder and I applied to YC this summer with a full quant platform - backtest, optimize, and deploy strategies all in one place. Regulatory complexity killed us. We had to pivot.While my co-founder moved on to other things, I kept working on the core pr\u2026",
+      "url": "https://github.com/StrateQueue/StrateQueue",
+      "urlToImage": "https://opengraph.githubassets.com/5201f434261855c120d4ef70c6ed2a2ac9d87f65f463034bb3a459ba619e853c/StrateQueue/StrateQueue",
+      "publishedAt": "2025-06-27T20:44:05Z",
+      "content": "Documentation | Quick Start Guide | Community\r\nThe fastest way from backtest to live trading\r\nBacktest to live in seconds. StrateQueue lets you deploy any Python trading strategy (backtrader, zipline\u2026 [+3231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "MoneyShow, Contributor, \n MoneyShow, Contributor\n https://www.forbes.com/sites/moneyshow/people/moneyshow/",
+      "title": "3 Ways To Profit With Big Tech Back In The Driver\u2019s Seat",
+      "description": "The technology sector has been leading the market rally off the early-April lows \u2013 with sizable double-digit gains piling up. Here are three ways you can profit.",
+      "url": "https://www.forbes.com/sites/moneyshow/2025/06/27/3-ways-to-profit-with-big-tech-back-in-the-drivers-seat/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/666c7f31cc0d611c43308dfa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-27T16:33:09Z",
+      "content": "Big Tech is back in the drivers seat! The technology sector has been leading the market rally off the early-April lows with sizable double-digit gains piling up. Here are three ways you can profit, c\u2026 [+6665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "TipRanks",
+      "title": "AI Daily: Meta poaches researchers from OpenAI",
+      "description": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this daily recap...",
+      "url": "https://finance.yahoo.com/news/ai-daily-meta-poaches-researchers-154032948.html",
+      "urlToImage": "https://media.zenfs.com/en/tipranks_452/d524a3ac9891a5b3f09a1e06f897f8d9",
+      "publishedAt": "2025-06-27T15:40:32Z",
+      "content": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this daily recap compiled by The Fly:\r\nWHATSAPP: Metas (META) Wh\u2026 [+7190 chars]"
+    }
+  ]
+}
