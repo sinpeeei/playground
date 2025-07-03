@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-03",
+  "price": 213.55,
+  "marketCap": 3189540126720,
+  "peRatio": 33.26324,
+  "history": [
+    {
+      "Date": "2025-06-27 00:00:00-04:00",
+      "Open": 201.88999938964844,
+      "High": 203.22000122070312,
+      "Low": 200.0,
+      "Close": 201.0800018310547,
+      "Volume": 73188600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-30 00:00:00-04:00",
+      "Open": 202.00999450683594,
+      "High": 207.38999938964844,
+      "Low": 199.25999450683594,
+      "Close": 205.1699981689453,
+      "Volume": 91912800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-01 00:00:00-04:00",
+      "Open": 206.6699981689453,
+      "High": 210.19000244140625,
+      "Low": 206.13999938964844,
+      "Close": 207.82000732421875,
+      "Volume": 78788900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67893400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14500427246094,
+      "High": 214.64999389648438,
+      "Low": 211.8101043701172,
+      "Close": 213.5500030517578,
+      "Volume": 34697317,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Perplexity AI\u3001Labs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u65b0\u6a5f\u80fd\u3078\u306e\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d200\u30c9\u30eb\u306e\u300cPerplexity Max\u300d\u30d7\u30e9\u30f3\u3092\u63d0\u4f9b\u958b\u59cb\u3002",
+      "description": "Perplexity AI\u304cLabs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u65b0\u6a5f\u80fd\u3078\u306e\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u6a29\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d200\u30c9\u30eb\u306e\u300cPerplexity Max\u300d\u30d7\u30e9\u30f3\u306e\u63d0\u4f9b\u3092\u958b [\u2026]\nThe post Perplexity AI\u3001Labs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u65b0\u6a5f\u80fd\u3078\u306e\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d200\u30c9\u30eb\u306e\u300cPerplexity Max\u300d\u30d7\u30e9\u30f3\u3092\u63d0\u4f9b\u958b\u59cb\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250703-perplexity-iphone-max.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Perplexity-Max-by-Perplexity-for-iPhone-Hero.webp",
+      "publishedAt": "2025-07-02T21:12:45Z",
+      "content": "Perplexity AILabsOpenAI o3-proClaude Opus 4200Perplexity Max\r\nAIPerplexityPerplexity AI, Inc20250701Perplexity for iPhone/iPad2.250626.0LabsAIPerplexity Max\r\nPerplexity Max\r\nPerplexity App Store\r\nPer\u2026 [+432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macdailynews.com"
+      },
+      "author": "MacDailyNews",
+      "title": "S&P 500, Nasdaq close up on Vietnam trade deal; Apple, Tesla and other tech stocks rise",
+      "description": "The S&P 500 and Nasdaq ended higher on Wednesday, driven by tech stock gains and a new U.S.-Vietnam trade deal. The Nasdaq saw strong\u2026\nThe post S&P 500, Nasdaq close up on Vietnam trade deal; Apple, Tesla and other tech stocks rise appeared first on MacDailyN\u2026",
+      "url": "https://macdailynews.com/2025/07/02/s-apple-tesla-and-other-tech-stocks-rise/",
+      "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2025/04/250409_stock_chart.png",
+      "publishedAt": "2025-07-02T20:31:25Z",
+      "content": "The S&amp;P 500 and Nasdaq ended higher on Wednesday, driven by tech stock gains and a new U.S.-Vietnam trade deal. The Nasdaq saw strong performance, fueled by advances in Apple, Nvidia, and Tesla.\r\u2026 [+1369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Amalya Dubrovsky",
+      "title": "Stock market today: S&P 500, Nasdaq leap to fresh records as Vietnam trade deal boosts hopes ahead of key jobs report",
+      "description": "Private-sector jobs data prepares the ground for the all-important monthly US jobs report on Friday.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-leap-to-fresh-records-as-vietnam-trade-deal-boosts-hopes-ahead-of-key-jobs-report-230021146.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T49PlYQQTrKrRKnZqTOfSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/08c48770-56a7-11f0-a57f-c917691dc50c",
+      "publishedAt": "2025-07-02T20:10:35Z",
+      "content": "US stocks moved higher to clinch more record highs on Wednesday as optimism over US trade deals rose at the same time that more signs of an intensifying labor market slowdown bolstered the case for t\u2026 [+15342 chars]"
+    }
+  ]
+}
