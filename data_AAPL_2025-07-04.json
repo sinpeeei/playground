@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-04",
+  "price": 213.55,
+  "marketCap": 3189540126720,
+  "peRatio": 33.21151,
+  "history": [
+    {
+      "Date": "2025-06-27 00:00:00-04:00",
+      "Open": 201.88999938964844,
+      "High": 203.22000122070312,
+      "Low": 200.0,
+      "Close": 201.0800018310547,
+      "Volume": 73188600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-30 00:00:00-04:00",
+      "Open": 202.00999450683594,
+      "High": 207.38999938964844,
+      "Low": 199.25999450683594,
+      "Close": 205.1699981689453,
+      "Volume": 91912800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-01 00:00:00-04:00",
+      "Open": 206.6699981689453,
+      "High": 210.19000244140625,
+      "Low": 206.13999938964844,
+      "Close": 207.82000732421875,
+      "Volume": 78788900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67941800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Here's How to Listen to Apple's Upcoming Earnings Call With Tim Cook",
+      "description": "Apple has announced that it will share earnings results for the third quarter of its 2025 fiscal year on Thursday, July 31. Apple's earnings reports are typically released at 1:30 p.m. Eastern Time, shortly after the stock market has closed in New York.\n\n\n\n\n\n\u2026",
+      "url": "https://www.macrumors.com/2025/07/03/apple-q3-fy-2025-earnings-call/",
+      "urlToImage": "https://images.macrumors.com/t/tbbtyA1_rWog0wJbYaLY_rROx5U=/2500x/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
+      "publishedAt": "2025-07-03T20:58:24Z",
+      "content": "Apple has announced that it will share earnings results for the third quarter of its 2025 fiscal year on Thursday, July 31. Apple's earnings reports are typically released at 1:30 p.m. Eastern Time, \u2026 [+1090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Andrew Kessel",
+      "title": "Nvidia Could Be About To Do Something No Company Has Ever Done",
+      "description": "Nvidia could be poised to become the most valuable company in history, as its market value nears $4 trillion.",
+      "url": "https://www.investopedia.com/nvidia-could-be-about-to-do-something-no-company-has-ever-done-11766132",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UoTRCb4UHfo40Sfs7EaXlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://media.zenfs.com/en/investopedia_245/28afcea47c5bdfdeb333b9cbd9550ab3",
+      "publishedAt": "2025-07-03T18:51:18Z",
+      "content": "Chesnot / Getty Images\r\n Nvidia CEO Jensen Huang attends the VivaTech trade show in Paris on June 11, 2025\r\n<ul><li>Nvidia could be poised to claim the title of most valuable company in history, as i\u2026 [+1721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "thestreet.com",
+      "title": "Veteran fund manager makes bold move on Apple, Marvell",
+      "description": "Chris Versace wants to start off the holiday weekend with a blast.\nThe lead portfolio manager for TheStreet Pro Portfolio gave readers an update on chipmaker Marvell Technology (MRVL) and computer giant Apple (AAPL) .\nDon't miss the move: Subscribe to The\u2026",
+      "url": "https://biztoc.com/x/228e78c621c30c64",
+      "urlToImage": "https://biztoc.com/cdn/228e78c621c30c64_s.webp",
+      "publishedAt": "2025-07-03T18:06:50Z",
+      "content": "Chris Versace wants to start off the holiday weekend with a blast.The lead portfolio manager for TheStreet Pro Portfolio gave readers an update on chipmaker Marvell Technology (MRVL) and computer gia\u2026 [+143 chars]"
+    }
+  ]
+}
