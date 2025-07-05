@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-05",
+  "price": 213.55,
+  "marketCap": 3189540126720,
+  "peRatio": 33.21151,
+  "history": [
+    {
+      "Date": "2025-06-27 00:00:00-04:00",
+      "Open": 201.88999938964844,
+      "High": 203.22000122070312,
+      "Low": 200.0,
+      "Close": 201.0800018310547,
+      "Volume": 73188600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-06-30 00:00:00-04:00",
+      "Open": 202.00999450683594,
+      "High": 207.38999938964844,
+      "Low": 199.25999450683594,
+      "Close": 205.1699981689453,
+      "Volume": 91912800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-01 00:00:00-04:00",
+      "Open": 206.6699981689453,
+      "High": 210.19000244140625,
+      "Low": 206.13999938964844,
+      "Close": 207.82000732421875,
+      "Volume": 78788900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67941800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Brooke Steinberg",
+      "title": "Is a toxic boss ruining your life? Here\u2019s what to do about it, before things get worse",
+      "description": "Feeling overwhelmed and diminished at work? Your manager could be the problem.",
+      "url": "https://nypost.com/2025/07/04/lifestyle/is-a-toxic-manager-ruining-your-work-life-heres-what-to-do-about-it/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/107598491.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-04T17:57:39Z",
+      "content": "If you\u2019re feeling overwhelmed and diminished at work, a toxic manager could be to blame.\r\nA bad boss can define the work experience. Someone who casts down on the people who report to them and ignore\u2026 [+6553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lesswrong.com"
+      },
+      "author": "ChristianWilliams",
+      "title": "Market Pulse Challenge 25Q3, $7,500 Prize Pool",
+      "description": "Published on July 4, 2025 5:03 PM GMTFollowing encouraging Market Pulse Challenge 25Q2 results, we've launched the next round of our experiment in aggregating market forecasts: the Market Pulse Challenge 25Q3.\u00a0The Market Pulse Challenge is designed to test wh\u2026",
+      "url": "https://www.lesswrong.com/posts/emiQSrwnXpdz8gTPf/market-pulse-challenge-25q3-usd7-500-prize-pool",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/emiQSrwnXpdz8gTPf/bgpsfb6pd5tk37zxyal4",
+      "publishedAt": "2025-07-04T17:03:39Z",
+      "content": "Following encouraging Market Pulse Challenge 25Q2 results, we've launched the next round of our experiment in aggregating market forecasts: the Market Pulse Challenge 25Q3.\u00a0\r\nThe Market Pulse Challen\u2026 [+1132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Anand Sinha",
+      "title": "After 14 years and 140,000x gains, fortune worth billions surfaces this Fourth of July",
+      "description": "Billions in transactions after a slumber of 14 years make waves this Independence Day.",
+      "url": "https://www.thestreet.com/crypto/markets/after-14-years-and-140000x-gains-billions-surfaces-this-fourth-of-july",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/842a6d27c326d5b6d41baf2509c05cb7",
+      "publishedAt": "2025-07-04T16:42:12Z",
+      "content": "After 14 years and 140,000x gains, fortune worth billions surfaces this Fourth of July originally appeared on TheStreet.\r\nIt's the Fourth of July, and the United States is celebrating its 249th Indep\u2026 [+1958 chars]"
+    }
+  ]
+}
