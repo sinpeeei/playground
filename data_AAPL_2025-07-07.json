@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-07",
+  "price": 209.95,
+  "marketCap": 3135771246592,
+  "peRatio": 32.651634,
+  "history": [
+    {
+      "Date": "2025-06-30 00:00:00-04:00",
+      "Open": 202.00999450683594,
+      "High": 207.38999938964844,
+      "Low": 199.25999450683594,
+      "Close": 205.1699981689453,
+      "Volume": 91912800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-01 00:00:00-04:00",
+      "Open": 206.6699981689453,
+      "High": 210.19000244140625,
+      "Low": 206.13999938964844,
+      "Close": 207.82000732421875,
+      "Volume": 78788900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67941800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 49905104,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "author": "anthony.gocmen@gmail.com",
+      "title": "pairlink added to PyPI",
+      "description": "A package for statistical analysis and testing of relationships between 2 time series.",
+      "url": "https://pypi.org/project/pairlink/",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "publishedAt": "2025-07-06T19:43:34Z",
+      "content": "Description\r\nPairLink is a diagnostic tool designed to evaluate the statistical relationship between two time series.\r\nIt provides an assessment of their stationarity, cointegration, distributional c\u2026 [+558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Apple Inc. (AAPL): \u201cWhat Do We Pay For Apple?\u201d Wonders Jim Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Recently Talked About In His \u201cIdea-Driven\u201d Market. Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer...",
+      "url": "https://finance.yahoo.com/news/apple-inc-aapl-pay-apple-191213724.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+      "publishedAt": "2025-07-06T19:12:13Z",
+      "content": "We recently published 12 Stocks Jim Cramer Recently Talked About In His Idea-Driven Market. Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer recently discussed.\r\nApple Inc. (NASDAQ:AAPL) has \u2026 [+1811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stockcharts.com"
+      },
+      "author": "Tom Bowley",
+      "title": "Don't Overlook This Lagging Industry; I Believe It's Set To Explode!",
+      "description": "I like to trade stocks that are relative leaders and belong to industry groups that are leaders as well. For the past 2-3 months, much has been written about and discussed with respect to semiconductors ($DJUSSC), software ($DJUSSW), electrical components & e\u2026",
+      "url": "https://stockcharts.com/articles/tradingplaces/2025/07/dont-overlook-this-lagging-ind-895.html",
+      "urlToImage": "https://stockcharts.com/img/articles/2025/07/06/41a3ded9-9ebe-45af-af05-b8f7e2b6c536.jpg",
+      "publishedAt": "2025-07-06T17:00:24Z",
+      "content": "I like to trade stocks that are relative leaders and belong to industry groups that are leaders as well. For the past 2-3 months, much has been written about and discussed with respect to semiconduct\u2026 [+1741 chars]"
+    }
+  ]
+}
