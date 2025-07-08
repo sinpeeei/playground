@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-08",
+  "price": 210.01,
+  "marketCap": 3136667254784,
+  "peRatio": 32.711838,
+  "history": [
+    {
+      "Date": "2025-07-01 00:00:00-04:00",
+      "Open": 206.6699981689453,
+      "High": 210.19000244140625,
+      "Low": 206.13999938964844,
+      "Close": 207.82000732421875,
+      "Volume": 78788900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67941800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.1300048828125,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42036884,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 26 Tahoe\u300d\u3084\u300ciOS/iPadOS 26\u300d\u3001\u300cvisionOS 26\u300d\u306eBeta 3\u3092\u516c\u958b\u3002",
+      "description": "Apple\u304c\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 26 Tahoe\u300d\u3084\u300ciOS/iPadOS 26\u300d\u3001\u300cvisionOS 26\u300d\u306eBeta 3\u3092\u516c\u958b\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Apple\u306f\u73fe\u5730\u6642\u95932025\u5e7407\u670807\u65e5\u300106\u6708 [\u2026]\nThe post Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 26 Tahoe\u300d\u3084\u300ciOS/iPadOS 26\u300d\u3001\u300cvisionOS 26\u300d\u306eBeta 3\u3092\u516c\u958b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250708-macos-26-tahoe-and-ios-26-beta-3.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/macOS-26-Tahoe-beta-3-Hero.webp",
+      "publishedAt": "2025-07-07T21:26:27Z",
+      "content": "ApplemacOS 26 TahoeiOS/iPadOS 26visionOS 26Beta 3\r\nApple202507070609WWDC25macOS 26 TahoeiOS/iPadOS 26visionOS 26Beta 3\r\n<ul><li>iOS 26 beta 3 (23A5287g)</li><li>iPadOS 26 beta 3 (23A5287g)</li><li>ma\u2026 [+438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Michael Brush",
+      "title": "Tesla and Apple don\u2019t belong in the \u2018Magnificent Seven\u2019 anymore. These two hot tech stocks should replace them.",
+      "description": "Top tech-fund manager says Oracle and Broadcom are better buys right now. Here\u2019s why.",
+      "url": "https://www.marketwatch.com/story/this-new-magnificent-seven-kicks-out-two-favorites-and-adds-these-turbocharged-tech-stocks-e31701ec",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vx_Y6QlGEW2YEgpkDdM6Iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/5d30bd55b81311b36cc86b93d82cc604",
+      "publishedAt": "2025-07-07T20:36:00Z",
+      "content": "The Magnificent Seven needs an upgrade. - \u00a9Columbia Pictures/courtesy Everett Co / Everett Collection\r\nIf youre invested in the so-called Magnificent Seven stocks, heres what you can do to boost your\u2026 [+6055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u5148\u884c\u30bb\u30fc\u30eb\u3067\u3001AirPods Pro 2\u3084AirPods 4\u3001Apple Pencil Pro\u3001Magic Mouse (USB-C)\u3001Magic Keyboard\u306a\u3069\u306eApple\u88fd\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u304c\u7279\u5225\u4fa1\u683c\u3067\u8ca9\u58f2\u4e2d\u3002",
+      "description": "Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u5148\u884c\u30bb\u30fc\u30eb\u3067\u3001AirPods Pro 2\u3084AirPods 4\u3001Apple Pencil Pro\u3001Magic Mouse (USB-C)\u3001Magic Keyboard\u306a\u3069\u306eApple\u88fd\u30a2\u30af\u30bb\u30b5\u30ea\u30fc [\u2026]\nThe post Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u5148\u884c\u30bb\u30fc\u30eb\u3067\u3001AirPods Pro 2\u3084AirPods 4\u3001Apple Pencil Pro\u3001Magic Mouse (USB-C)\u3001Magic Keyboard\u306a\u3069\u306eApple\u88fd\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u304c\u7279\u5225\u4fa1\u683c\u3067\u8ca9\u58f2\u4e2d\u3002 first appeared o\u2026",
+      "url": "https://applech2.com/archives/20250707-amazon-prime-apple-accessory-sale.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Amazon-Prime-Apple-Sale-Hero.webp",
+      "publishedAt": "2025-07-07T15:50:23Z",
+      "content": "AmazonAirPods Pro 2AirPods 4Apple Pencil ProMagic Mouse (USB-C)Magic KeyboardApple\r\nAmazon Japan20250711Amazon\r\nAppleAirPodsMac/iPadMagic KeyboardMouseTrackpadiPadApple Pencil\r\nAirPods\r\nAirPods Pro 2\u2026 [+723 chars]"
+    }
+  ]
+}
