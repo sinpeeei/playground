@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-09",
+  "price": 211.14,
+  "marketCap": 3153544871936,
+  "peRatio": 32.836704,
+  "history": [
+    {
+      "Date": "2025-07-02 00:00:00-04:00",
+      "Open": 208.91000366210938,
+      "High": 213.33999633789062,
+      "Low": 208.13999938964844,
+      "Close": 212.44000244140625,
+      "Volume": 67941800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48408519,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Apple\u2019s Tim Cook Succession Plan Remains Fuzzy as COO Retires",
+      "description": "",
+      "url": "https://biztoc.com/x/13cd462a6f40403b",
+      "urlToImage": "https://biztoc.com/cdn/13cd462a6f40403b_s.webp",
+      "publishedAt": "2025-07-08T22:19:48Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump impose 50% copper tariffs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will pharma tariffs impact U\u2026 [+681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "ElevationLab\u3001CR2032\u306b\u4ee3\u308f\u308a\u5358\u4e09\u96fb\u6c602\u672c\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067AirTag\u3092\u6700\u592710\u5e74\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u30d0\u30c3\u30c6\u30ea\u30fc\u30b1\u30fc\u30b9\u300cTimeCapsule AirTag 10-Year Battery Case\u300d\u306bAdhesive Mount\u30e2\u30c7\u30eb\u3092\u8ffd\u52a0\u3002",
+      "description": "ElevationLab\u3001CR2032\u306b\u4ee3\u308f\u308a\u5358\u4e09\u96fb\u6c602\u672c\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067AirTag\u3092\u6700\u592710\u5e74\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u30d0\u30c3\u30c6\u30ea\u30fc\u30b1\u30fc\u30b9\u300cTimeCapsule AirTag 10-Year Battery Case\u300d\u306b [\u2026]\nThe post ElevationLab\u3001CR2032\u306b\u4ee3\u308f\u308a\u5358\u4e09\u96fb\u6c602\u672c\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067AirTag\u3092\u6700\u592710\u5e74\u5229\u7528\u3067\u304d\u308b\u3088\u3046\u306b\u3059\u308b\u30d0\u30c3\u30c6\u30ea\u30fc\u30b1\u30fc\u30b9\u300cTimeCapsule AirTag 10-Year Battery Case\u300d\u306bAdhesive Mount\u30e2\u30c7\u30eb\u3092\u8ffd\u52a0\u3002 first\u2026",
+      "url": "https://applech2.com/archives/20250709-elevationlab-timecapsule-airtag-10-year-extended-battery-with-adhesive-mount.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/ElevationLab-TimeCapsule-Lab-AirTag-10-Year-Extended-Battery-with-Adhesive-Mount-Hero.webp",
+      "publishedAt": "2025-07-08T21:01:20Z",
+      "content": "ElevationLabCR20322AirTag10TimeCapsule AirTag 10-Year Battery CaseAdhesive Mount\r\nElevation Lab202412AirTagCR2032210TimeCapsule\u2122 AirTag 10-Year Extended Battery3M VHBAdhesive Mount\r\nAirTag 10-Year Ba\u2026 [+477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Bronstein, Gewirtz & Grossman, LLC",
+      "title": "AAPL INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Apple Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "description": "NEW YORK, July 08, 2025 (GLOBE NEWSWIRE) -- Attorney Advertising -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been filed against Apple Inc. (\u201cApple\u201d or \u201cthe Company\u201d) (NASDAQ: AAPL\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/08/3112170/9788/en/AAPL-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Apple-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
+      "publishedAt": "2025-07-08T20:00:00Z",
+      "content": "NEW YORK, July 08, 2025 (GLOBE NEWSWIRE) -- Attorney Advertising -- Bronstein, Gewirtz &amp; Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been f\u2026 [+2408 chars]"
+    }
+  ]
+}
