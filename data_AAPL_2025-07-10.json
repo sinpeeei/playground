@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-10",
+  "price": 212.41,
+  "marketCap": 3172513349632,
+  "peRatio": 33.08567,
+  "history": [
+    {
+      "Date": "2025-07-03 00:00:00-04:00",
+      "Open": 212.14999389648438,
+      "High": 214.64999389648438,
+      "Low": 211.80999755859375,
+      "Close": 213.5500030517578,
+      "Volume": 34955800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.5050048828125,
+      "High": 213.47999572753906,
+      "Low": 210.1199951171875,
+      "Close": 212.41000366210938,
+      "Volume": 43770740,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool Australia"
+      },
+      "author": "Aaron Bell",
+      "title": "These Vanguard ASX ETFs rose more than 15% in the last year",
+      "description": "This ETF provider has had some winning funds in the last 12 months.\u00a0\nThe post These Vanguard ASX ETFs rose more than 15% in the last year appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/07/10/these-vanguard-asx-etfs-rose-more-than-15-in-the-last-year/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/02/etf-21-16.9-1200x675.jpg",
+      "publishedAt": "2025-07-09T22:36:38Z",
+      "content": "Earlier this week I covered some of the best performing Betashares ASX ETFs.\u00a0\r\nAnother popular ETF provider is Vanguard.\u00a0\r\nWhile Betashares offers more thematic options, Vanguard offers 29 ASX listed\u2026 [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brett LoGiurato",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus",
+      "description": "Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6..VFsVBSMgcmf4fbQtrEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/26e4dde0-5206-11f0-abae-f7ea31ab3c54",
+      "publishedAt": "2025-07-09T22:12:28Z",
+      "content": "US stocks traded broadly flat on Thursday, putting a Nvidia-fueled (NVDA) rally on pause as Wall Street weighed Delta's (DAL) upbeat earnings amid fresh tariff threats from President Trump.\r\nThe Dow \u2026 [+10901 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brett LoGiurato",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus",
+      "description": "Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6..VFsVBSMgcmf4fbQtrEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/26e4dde0-5206-11f0-abae-f7ea31ab3c54",
+      "publishedAt": "2025-07-09T22:12:28Z",
+      "content": "US stock futures traded broadly flat on Thursday, putting a Nvidia-fueled (NVDA) rally on pause as Wall Street weighed Delta's (DAL) upbeat earnings amid fresh tariff threats from President Trump.\r\nD\u2026 [+8630 chars]"
+    }
+  ]
+}
