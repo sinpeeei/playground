@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-11",
+  "price": 211.16,
+  "marketCap": 3153843453952,
+  "peRatio": 32.94228,
+  "history": [
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.56500244140625,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39686451,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Labs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30d6\u30e9\u30a6\u30b6Comet\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d3\u4e07\u5186\u306ePerplexity Max\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cPerplexity for Mac\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3002",
+      "description": "Labs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30d6\u30e9\u30a6\u30b6Comet\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d3\u4e07\u5186/200\u30c9\u30eb\u306ePerplexity Max\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cPerplexit [\u2026]\nThe post Labs\u6a5f\u80fd\u306e\u7121\u5236\u9650\u4f7f\u7528\u3084\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30d6\u30e9\u30a6\u30b6Comet\u3001OpenAI o3-pro\u3084Claude Opus 4\u3078\u306e\u30a2\u30af\u30bb\u30b9\u304c\u53ef\u80fd\u306a\u6708\u984d3\u4e07\u5186\u306ePerplexity Max\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u305f\u300cPerplexity for Mac\u300d\u304c\u30ea\u30ea\u30fc\u30b9\u3002 first appeared o\u2026",
+      "url": "https://applech2.com/archives/20250711-perplexity-for-mac-support-max.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Perplexity-for-Mac-support-Max-Hero.webp",
+      "publishedAt": "2025-07-10T21:12:44Z",
+      "content": "LabsCometOpenAI o3-proClaude Opus 43/200Perplexity MaxPerplexity for Mac\r\nAIPerplexityPerplexity AI, Inc20250701LabsAIPerplexity MaxPerplexity for iPhone/iPad v2.250626.0MaxPerplexity for Mac v 2.250\u2026 [+225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool Australia"
+      },
+      "author": "James Mickleboro",
+      "title": "The $1,000-a-month ASX share investing plan for beginners",
+      "description": "This is an easy way to grow your wealth over the long term.\nThe post The $1,000-a-month ASX share investing plan for beginners appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/07/11/the-1000-a-month-asx-share-investing-plan-for-beginners/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/08/dividends-1200x675.jpeg",
+      "publishedAt": "2025-07-10T20:36:00Z",
+      "content": "If you're just starting out with investing, it can feel overwhelming.\r\nYou might wonder whether you're too late, whether you need a finance degree, or whether your savings will ever amount to anythin\u2026 [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Namrata Sen",
+      "title": "Apple Needs 'Product-Focused CEO,' Say Analysts As Tim Cook Faces Heat Over AI Failures And Innovation Slump",
+      "description": "Analysts from LightShed Partners have suggested that Apple Inc. (NASDAQ:AAPL) should consider a change in leadership to prioritize product innovation...",
+      "url": "https://finance.yahoo.com/news/apple-needs-product-focused-ceo-203103999.html",
+      "urlToImage": "https://media.zenfs.com/en/benzinga_79/4ab5e9e382e2d203fc1eb777e76b093f",
+      "publishedAt": "2025-07-10T20:31:03Z",
+      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nAnalysts from LightShed Partners have suggested that\u00a0Apple Inc.\u00a0(NASDAQ:AAPL) should consider a c\u2026 [+2264 chars]"
+    }
+  ]
+}
