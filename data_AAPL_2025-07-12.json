@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-12",
+  "price": 211.16,
+  "marketCap": 3153843453952,
+  "peRatio": 32.890965,
+  "history": [
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39719300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Jason Meshnick, CMT",
+      "title": "Stock Market Today: 35% Tariff on Canada Spooks Investors",
+      "description": "The president pointed to yesterday's new highs as proof that tariffs were good policy. Did that narrative just change?",
+      "url": "https://www.thestreet.com/investing/stock-market-today-35-tariff-on-canada-spooks-investors",
+      "urlToImage": "https://media.zenfs.com/en/thestreet_881/2cc19fb7da6ac151e32dd903be474ebe",
+      "publishedAt": "2025-07-11T16:29:45Z",
+      "content": "Stock Market Today: 35% Tariff on Canada Spooks Investors originally appeared on TheStreet.\r\nUpdated 11:43 a.m. ET\r\nStocks were still struggling in late morning trading as investors fretted with the \u2026 [+4339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Why This Public-Private Tech Darling Is Currently Among The Best Names To Watch",
+      "description": ", the maker of wireless networking gear, is a bet on the former Apple (AAPL) engineer behind the company, Robert Pera. The founder and chief executive owns more than 90% of shares and rarely sells any of his position even as Ubiquiti stock has ramped up aroun\u2026",
+      "url": "https://biztoc.com/x/fb21a1d02f232496",
+      "urlToImage": "https://biztoc.com/cdn/fb21a1d02f232496_s.webp",
+      "publishedAt": "2025-07-11T16:11:14Z",
+      "content": ", the maker of wireless networking gear, is a bet on the former Apple (AAPL) engineer behind the company, Robert Pera. The founder and chief executive owns more than 90% of shares and rarely sells an\u2026 [+144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Evaluating Apple Against Peers In Technology Hardware, Storage & Peripherals Industry",
+      "description": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers. In this article, we will carry out an in-depth industry comparison, assessing Apple AAPL al\u2026",
+      "url": "https://biztoc.com/x/7df16cf9b0390982",
+      "urlToImage": "https://biztoc.com/cdn/7df16cf9b0390982_s.webp",
+      "publishedAt": "2025-07-11T15:15:03Z",
+      "content": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers. In this article, we will carry \u2026 [+137 chars]"
+    }
+  ]
+}
