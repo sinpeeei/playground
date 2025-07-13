@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-13",
+  "price": 211.16,
+  "marketCap": 3153843453952,
+  "peRatio": 32.890965,
+  "history": [
+    {
+      "Date": "2025-07-07 00:00:00-04:00",
+      "Open": 212.67999267578125,
+      "High": 216.22999572753906,
+      "Low": 208.8000030517578,
+      "Close": 209.9499969482422,
+      "Volume": 50229000,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39719300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoinist"
+      },
+      "author": "Christian Encila",
+      "title": "Proof Of Power: Bitcoin Dwarfs S&P 500 With Nearly 100% Edge Since 2012\u2014Data",
+      "description": "Bitcoin is flexing its muscle. The S&P\u202f500 Index closed at 6,280 on July\u202f10, 2025, marking a 6% year\u2011to\u2011date gain in dollar terms. The benchmark even set fresh records this week. Yet priced in Bitcoin, that same index sits about 15% lower so far this year. Th\u2026",
+      "url": "https://bitcoinist.com/proof-of-power-bitcoin-dwarfs-sp-500-with-nearly-100-edge-since-2012-data/",
+      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2025/07/a_262efd.jpg",
+      "publishedAt": "2025-07-12T19:30:09Z",
+      "content": "Bitcoin is flexing its muscle. The S&amp;P500 Index closed at 6,280 on July10, 2025, marking a 6% yeartodate gain in dollar terms. The benchmark even set fresh records this week. Yet priced in Bitcoi\u2026 [+2926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "author": "Sushree Mohanty",
+      "title": "Apple\u2019s China Risks Are Real, But the Market Is Missing the Bigger Picture",
+      "description": "Apple is playing the long game, and patient investors could benefit.",
+      "url": "https://www.barchart.com/story/news/33367438/apples-china-risks-are-real-but-the-market-is-missing-the-bigger-picture",
+      "urlToImage": "https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb",
+      "publishedAt": "2025-07-12T12:00:02Z",
+      "content": "Apple Inc Tim Cook-by John Gress Media Inc via Shutterstock\r\nApples (AAPL) long-standing reliance on China for both manufacturing and consumer demand has sparked concern among investors and analysts.\u2026 [+6244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Tyonit\u3001Apple\u306eMagic Keyboard\u3068Trackpad\u3092\u4e00\u4f53\u5316\u3057MacBook\u306e\u3088\u3046\u306b\u4f7f\u7528\u3067\u304d\u308b\u300cHarmony Tray Pro\u300d\u306e\u8ca9\u58f2\u3092\u518d\u958b\u3002",
+      "description": "Tyonit\u304cApple\u306eMagic Keyboard\u3068Magic Trackpad\u3092\u4e00\u4f53\u5316\u3057MacBook\u306e\u3088\u3046\u306b\u4f7f\u7528\u3067\u304d\u308b\u300cHarmony Tray Pro\u300d\u306e\u8ca9\u58f2\u3092\u518d\u958b\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000\u97d3\u56fdTyon [\u2026]\nThe post Tyonit\u3001Apple\u306eMagic Keyboard\u3068Trackpad\u3092\u4e00\u4f53\u5316\u3057MacBook\u306e\u3088\u3046\u306b\u4f7f\u7528\u3067\u304d\u308b\u300cHarmony Tray Pro\u300d\u306e\u8ca9\u58f2\u3092\u518d\u958b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250712-tyonit-harmony-tray-pro-for-magic-3d.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/02/Tyonit-Harmony-Tray-Pro-for-Magic-Keyboard-and-Trackpad-features-2.webp",
+      "publishedAt": "2025-07-12T11:39:22Z",
+      "content": "TyonitAppleMagic KeyboardMagic TrackpadMacBookHarmony Tray Pro\r\nTyonit202502USB-CLightningMagic Keyboard()TrackpadTyonit Harmony Tray Pro (MH002UV01)Harmony Tray Pro\r\n()Magic Trackpad(USB-C)Apple (:)\u2026 [+378 chars]"
+    }
+  ]
+}
