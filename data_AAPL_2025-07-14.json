@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-14",
+  "price": 208.62,
+  "marketCap": 3115906498560,
+  "peRatio": 32.495327,
+  "history": [
+    {
+      "Date": "2025-07-08 00:00:00-04:00",
+      "Open": 210.10000610351562,
+      "High": 211.42999267578125,
+      "Low": 208.4499969482422,
+      "Close": 210.00999450683594,
+      "Volume": 42848900,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39719300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-14 00:00:00-04:00",
+      "Open": 209.90899658203125,
+      "High": 210.91000366210938,
+      "Low": 207.5399932861328,
+      "Close": 208.6199951171875,
+      "Volume": 37683849,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "The Rosen Law Firm PA",
+      "title": "ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages Apple Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action \u2013 AAPL",
+      "description": "NEW YORK, July 13, 2025 (GLOBE NEWSWIRE) -- WHY:\u00a0Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Apple Inc. (NASDAQ: AAPL) between June 10, 2024 and June 9, 2025, both dates inclusive (the \u201cClass Period\u201d), of the importa\u2026",
+      "url": "https://www.globenewswire.com/news-release/2025/07/13/3114449/673/en/ROSEN-TOP-RANKED-INVESTOR-COUNSEL-Encourages-Apple-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-AAPL.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "publishedAt": "2025-07-13T18:23:00Z",
+      "content": "NEW YORK, July 13, 2025 (GLOBE NEWSWIRE) -- \r\nWHY:\u00a0Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Apple Inc. (NASDAQ: AAPL) between June 10, 2024 and June 9, 2\u2026 [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u30bb\u30fc\u30eb\u3067\u3001Spigen\u306eAirPods\u3084iPhone/iPad\u3001Apple Watch\u3001Mac mini\u7528\u30b1\u30fc\u30b9\u3084\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u304c\u7279\u5225\u4fa1\u683c\u3067\u8ca9\u58f2\u4e2d\u3002",
+      "description": "Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u30bb\u30fc\u30eb\u3067\u3001Spigen\u306eAirPods\u3084iPhone/iPad\u3001Apple Watch\u3001Mac mini\u7528\u30b1\u30fc\u30b9\u3084\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u304c\u7279\u5225\u4fa1\u683c\u3067\u8ca9\u58f2\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Amazon Ja [\u2026]\nThe post Amazon\u30d7\u30e9\u30a4\u30e0\u30c7\u30fc\u30bb\u30fc\u30eb\u3067\u3001Spigen\u306eAirPods\u3084iPhone/iPad\u3001Apple Watch\u3001Mac mini\u7528\u30b1\u30fc\u30b9\u3084\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u304c\u7279\u5225\u4fa1\u683c\u3067\u8ca9\u58f2\u4e2d\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250713-amazon-prime-spigen-sale.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Amazon-Prime-Spigen-Sale-Hero.webp",
+      "publishedAt": "2025-07-13T12:51:19Z",
+      "content": "AmazonSpigenAirPodsiPhone/iPadApple WatchMac mini\r\nAmazon Japan202507142459SpigenAirPodsiPhone/iPadApple WatchMac mini\r\nSpigen\r\niMac G3Classic C1MagSafeMac miniAirPodsiPhoneiPadMac mini\r\nAirPods\r\nSpi\u2026 [+1250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
+      "title": "Second Quarter Earnings Season Preview",
+      "description": "Earnings season begins this week. With the tariff overhang and higher expectations for coming quarters, forward earnings guidance from management will be crucial.",
+      "url": "https://www.forbes.com/sites/bill_stone/2025/07/13/second-quarter-earnings-season-preview/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652af4034109ce616a111b0b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-13T12:23:53Z",
+      "content": "The second-quarter earnings season begins this week, with 39 S&amp;P 500 companies scheduled to report. ... More This week has a heavy emphasis on banks including: JPMorgan Chase (JPM), Wells Fargo (\u2026 [+4987 chars]"
+    }
+  ]
+}
