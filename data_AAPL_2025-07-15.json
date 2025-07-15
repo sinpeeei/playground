@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-15",
+  "price": 209.11,
+  "marketCap": 3123225034752,
+  "peRatio": 32.520996,
+  "history": [
+    {
+      "Date": "2025-07-09 00:00:00-04:00",
+      "Open": 209.52999877929688,
+      "High": 211.3300018310547,
+      "Low": 207.22000122070312,
+      "Close": 211.13999938964844,
+      "Volume": 48749400,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39765800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-14 00:00:00-04:00",
+      "Open": 209.92999267578125,
+      "High": 210.91000366210938,
+      "Low": 207.5399932861328,
+      "Close": 208.6199951171875,
+      "Volume": 38840100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-15 00:00:00-04:00",
+      "Open": 209.14999389648438,
+      "High": 211.88999938964844,
+      "Low": 208.9199981689453,
+      "Close": 209.11000061035156,
+      "Volume": 42071894,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Bragar Eagel & Squire",
+      "title": "Bragar Eagel & Squire, P.C. Is Investigating Apple, Sable, Abacus, and Hallador and Encourages Investors to Contact the Firm",
+      "description": "Bragar Eagel & Squire, P.C. Litigation Partner\u00a0Brandon Walker\u00a0Encourages Investors Who Suffered Losses In Apple (AAPL), Sable (SOC), Abacus (ABL), or Hallador (HNRG) To Contact Him Directly To Discuss Their Options",
+      "url": "https://www.globenewswire.com/news-release/2025/07/14/3115249/0/en/Bragar-Eagel-Squire-P-C-Is-Investigating-Apple-Sable-Abacus-and-Hallador-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+      "publishedAt": "2025-07-14T22:23:00Z",
+      "content": "Bragar Eagel &amp; Squire, P.C. Litigation Partner\u00a0Brandon Walker\u00a0Encourages Investors Who Suffered Losses In Apple (AAPL), Sable (SOC), Abacus (ABL), or Hallador (HNRG) To Contact Him Directly To Di\u2026 [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 3\u3092\u516c\u958b\u3002",
+      "description": "Apple\u304c\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 3\u3092\u516c\u958b\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Apple\u306f2025\u5e7406\u6708\u3001\u4e16\u754c\u958b [\u2026]\nThe post Apple\u3001\u958b\u767a\u8005\u5411\u3051\u306b\u300cmacOS 15.6 Sequoia\u300d\u3084\u300ciOS/iPadOS 18.6\u300d\u3001\u300cvisionOS 2.6\u300d\u306eBeta 3\u3092\u516c\u958b\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250715-macos-15-6-sequoia-and-ios-18-6-beta-3.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/macOS-15-6-Sequoia-and-iOS-18-6-Beta-3-Hero.webp",
+      "publishedAt": "2025-07-14T21:38:42Z",
+      "content": "ApplemacOS 15.6 SequoiaiOS/iPadOS 18.6visionOS 2.6Beta 3\r\nApple202506(WWDC25)macOS 26 TahoeiOS/iPadOS 26Beta0714macOS 15.6iOS/iPadOS 18.6tvOS 18.6visionOS 2.6watchOS 11.6Beta 3\r\n<ul><li>iOS 18.6 beta\u2026 [+915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Rian Howlett",
+      "title": "Stock market today: Nasdaq secures record close as investors shake off tariff threats, eye key inflation data",
+      "description": "US stocks rose on Monday with the Nasdaq closing at a fresh record with Trump's tariffs in focus as key inflation data and earnings season loom.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-record-close-as-investors-shake-off-tariff-threats-eye-key-inflation-data-200046379.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/28CWMOZJ4DXlz1uQU8qXZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/f11dfe50-6045-11f0-afdb-8e25ec067a7d",
+      "publishedAt": "2025-07-14T20:00:46Z",
+      "content": "US stocks rose on Monday with the Nasdaq (^IXIC) closing at a fresh record as Wall Street ultimately shrugged off renewed trade tensions and looked ahead to a key inflation report and the first wave \u2026 [+13279 chars]"
+    }
+  ]
+}
