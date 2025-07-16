@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-16",
+  "price": 210.16,
+  "marketCap": 3138907799552,
+  "peRatio": 32.684296,
+  "history": [
+    {
+      "Date": "2025-07-10 00:00:00-04:00",
+      "Open": 210.50999450683594,
+      "High": 213.47999572753906,
+      "Low": 210.02999877929688,
+      "Close": 212.41000366210938,
+      "Volume": 44443600,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-11 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 212.1300048828125,
+      "Low": 209.86000061035156,
+      "Close": 211.16000366210938,
+      "Volume": 39765800,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-14 00:00:00-04:00",
+      "Open": 209.92999267578125,
+      "High": 210.91000366210938,
+      "Low": 207.5399932861328,
+      "Close": 208.6199951171875,
+      "Volume": 38840100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-15 00:00:00-04:00",
+      "Open": 209.22000122070312,
+      "High": 211.88999938964844,
+      "Low": 208.9199981689453,
+      "Close": 209.11000061035156,
+      "Volume": 42296300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-16 00:00:00-04:00",
+      "Open": 210.2899932861328,
+      "High": 212.39999389648438,
+      "Low": 208.63999938964844,
+      "Close": 210.16000366210938,
+      "Volume": 47148580,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "\u7c73Satechi\u3001\u6700\u592760W PD\u5bfe\u5fdc\u306e\u5145\u96fb\u7528USB-C\u30b1\u30fc\u30d6\u30eb\u3092\u5229\u7528\u3057\u305f\u30b9\u30de\u30db\u7528\u30cd\u30c3\u30af\u30b9\u30c8\u30e9\u30c3\u30d7\u300cSatechi OntheGo\u2122 USB-C Lanyard Cable\u300d\u3092\u767a\u58f2\u3002",
+      "description": "\u7c73Satechi\u304c\u6700\u592760W PD\u5bfe\u5fdc\u306e\u5145\u96fb\u7528USB-C\u30b1\u30fc\u30d6\u30eb\u3092\u5229\u7528\u3057\u305f\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u7528\u30cd\u30c3\u30af\u30b9\u30c8\u30e9\u30c3\u30d7\u300cSatechi OntheGo\u2122 USB-C Lanyard Cable\u300d\u3092\u767a\u58f2\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30 [\u2026]\nThe post \u7c73Satechi\u3001\u6700\u592760W PD\u5bfe\u5fdc\u306e\u5145\u96fb\u7528USB-C\u30b1\u30fc\u30d6\u30eb\u3092\u5229\u7528\u3057\u305f\u30b9\u30de\u30db\u7528\u30cd\u30c3\u30af\u30b9\u30c8\u30e9\u30c3\u30d7\u300cSatechi OntheGo\u2122 USB-C Lanyard Cable\u300d\u3092\u767a\u58f2\u3002 first appeared on AAPL Ch..",
+      "url": "https://applech2.com/archives/20250716-satechi-onthego-usb-c-lanyard-cable.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Satechi-OntheGo-USB-C-Lanyard-Cable-Hero.webp",
+      "publishedAt": "2025-07-15T21:53:36Z",
+      "content": "Satechi60W PDUSB-CSatechi OntheGo\u2122 USB-C Lanyard Cable\r\nSatechiiPhoneUSB-CSatechi OntheGo\u2122 USB-C Lanyard Cable (ST-LOTGLx)\r\nDesigned for the modern multitasker, the OntheGo\u2122 USB-C Lanyard Cable is mo\u2026 [+502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool Australia"
+      },
+      "author": "Bronwyn Allen",
+      "title": "Own ASX A200, NDQ, or ARMR ETFs? It's dividend payday for you!",
+      "description": "Betashares will pay distributions to ASX ETF investors today. \nThe post Own ASX A200, NDQ, or ARMR ETFs? It's dividend payday for you! appeared first on The Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2025/07/16/own-asx-a200-ndq-or-armr-etfs-its-dividend-payday-for-you/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/08/winning2-1200x675.jpeg",
+      "publishedAt": "2025-07-15T21:30:00Z",
+      "content": "Are you invested in the Betashares Australia 200 ETF (ASX: A200) or Betashares NASDAQ 100 ETF (ASX: NDQ)? \r\nHow about the new Betashares Global Defence ETF (ASX: ARMR), which only began trading in Oc\u2026 [+3113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applech2.com"
+      },
+      "author": "applech2",
+      "title": "CD PROJEKT RED\u3001WWDC25\u3067\u306e\u767a\u8868\u901a\u308aApple Silicon Mac\u306b\u5bfe\u5fdc\u3057\u305f\u300cCyberpunk 2077: Ultimate Edition\u300d\u30927\u670817\u65e5\u306b\u767a\u58f2\u3002Metal 4\u3084\u7a7a\u9593\u30aa\u30fc\u30c7\u30a3\u30aa\u306b\u3082\u5bfe\u5fdc\u3002",
+      "description": "CD PROJEKT RED\u306f\u3001Apple\u306eWWDC25\u306e\u767a\u8868\u901a\u308aApple Silicon Mac\u5411\u3051\u306e\u300cCyberpunk 2077: Ultimate Edition\u300d\u30927\u670817\u65e5\u306b\u767a\u58f2\u3059\u308b\u3068\u767a\u8868\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30 [\u2026]\nThe post CD PROJEKT RED\u3001WWDC25\u3067\u306e\u767a\u8868\u901a\u308aApple Silicon Mac\u306b\u5bfe\u5fdc\u3057\u305f\u300cCyberpunk 2077: Ultimate Edition\u300d\u30927\u670817\u65e5\u306b\u767a\u58f2\u3002Metal 4\u3084\u7a7a\u9593\u30aa\u30fc\u30c7\u30a3\u30aa\u306b\u3082\u5bfe\u5fdc\u3002 first appeared on AAPL\u2026",
+      "url": "https://applech2.com/archives/20250716-cyberpunk-2077-ultimate-edition-for-apple-silicon-mac.html",
+      "urlToImage": "https://applech2.com/wp-content/uploads/2025/07/Cyberpunk-2077-Ultimate-Edition-for-Apple-Silicon-Mac-Hero.webp",
+      "publishedAt": "2025-07-15T20:52:51Z",
+      "content": "CD PROJEKT REDAppleWWDC25Apple Silicon MacCyberpunk 2077: Ultimate Edition717\r\nCD PROJEKT RED202410RPG Cyberpunk 2077Cyberpunk 2077: Ultimate EditionMac\r\n2025~2026MaciPhone\r\n202506WWDC2520252026Apple\u2026 [+997 chars]"
+    }
+  ]
+}
