@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-18",
+  "price": 211.18,
+  "marketCap": 3154142035968,
+  "peRatio": 32.842922,
+  "history": [
+    {
+      "Date": "2025-07-14 00:00:00-04:00",
+      "Open": 209.92999267578125,
+      "High": 210.91000366210938,
+      "Low": 207.5399932861328,
+      "Close": 208.6199951171875,
+      "Volume": 38840100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-15 00:00:00-04:00",
+      "Open": 209.22000122070312,
+      "High": 211.88999938964844,
+      "Low": 208.9199981689453,
+      "Close": 209.11000061035156,
+      "Volume": 42296300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-16 00:00:00-04:00",
+      "Open": 210.3000030517578,
+      "High": 212.39999389648438,
+      "Low": 208.63999938964844,
+      "Close": 210.16000366210938,
+      "Volume": 47490500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-17 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 211.8000030517578,
+      "Low": 209.58999633789062,
+      "Close": 210.02000427246094,
+      "Volume": 48068100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-18 00:00:00-04:00",
+      "Open": 210.7550048828125,
+      "High": 211.7899932861328,
+      "Low": 209.70449829101562,
+      "Close": 211.17999267578125,
+      "Volume": 48317144,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brett LoGiurato",
+      "title": "Stock market today: Dow slips as S&P 500, Nasdaq rise in march to latest records",
+      "description": "Wall Street is staying bullish as the economy shows signs of strength.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slips-as-sp-500-nasdaq-rise-in-march-to-latest-records-222535166.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j5AJp23b0h0PhlUL.qzTsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/b23f8db0-6348-11f0-b5eb-cf42aa3fd324",
+      "publishedAt": "2025-07-17T22:25:35Z",
+      "content": "US stocks were mixed on Friday, hovering near record highs as signs of strength in the economy provided the buoyancy that Netflix's (NFLX) earnings report lacked.\r\nThe Dow Jones Industrial Average (^\u2026 [+9191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brett LoGiurato",
+      "title": "Stock market today: Dow slips as S&P 500, Nasdaq trim gains to hover near latest records",
+      "description": "Wall Street is staying bullish as the economy shows signs of strength.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slips-as-sp-500-nasdaq-trim-gains-to-hover-near-latest-records-222535574.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j5AJp23b0h0PhlUL.qzTsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/b23f8db0-6348-11f0-b5eb-cf42aa3fd324",
+      "publishedAt": "2025-07-17T22:25:35Z",
+      "content": "US stocks wavered on Friday, hovering near record highs as signs of strength in the economy provided the buoyancy that Netflix's (NFLX) earnings report lacked.\r\nThe Dow Jones Industrial Average (^DJI\u2026 [+11254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brett LoGiurato",
+      "title": "Stock market today: S&P 500, Nasdaq clinch records as US economy flashes strength, earnings roll in",
+      "description": "The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-clinch-records-as-us-economy-flashes-strength-earnings-roll-in-200059490.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xH7WhBcOyW8IqVNQsaNtlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/6039d2a0-6285-11f0-b6fa-67af42707f21",
+      "publishedAt": "2025-07-17T20:00:59Z",
+      "content": "US stocks notched new record highs on Thursday as Wall Street filtered through a fresh wave of earnings while keeping an eye on President Trump's campaign against Federal Reserve Chair Jerome Powell.\u2026 [+9724 chars]"
+    }
+  ]
+}
