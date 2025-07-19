@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "date": "2025-07-19",
+  "price": 211.18,
+  "marketCap": 3154142035968,
+  "peRatio": 32.89408,
+  "history": [
+    {
+      "Date": "2025-07-14 00:00:00-04:00",
+      "Open": 209.92999267578125,
+      "High": 210.91000366210938,
+      "Low": 207.5399932861328,
+      "Close": 208.6199951171875,
+      "Volume": 38840100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-15 00:00:00-04:00",
+      "Open": 209.22000122070312,
+      "High": 211.88999938964844,
+      "Low": 208.9199981689453,
+      "Close": 209.11000061035156,
+      "Volume": 42296300,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-16 00:00:00-04:00",
+      "Open": 210.3000030517578,
+      "High": 212.39999389648438,
+      "Low": 208.63999938964844,
+      "Close": 210.16000366210938,
+      "Volume": 47490500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-17 00:00:00-04:00",
+      "Open": 210.57000732421875,
+      "High": 211.8000030517578,
+      "Low": 209.58999633789062,
+      "Close": 210.02000427246094,
+      "Volume": 48068100,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    },
+    {
+      "Date": "2025-07-18 00:00:00-04:00",
+      "Open": 210.8699951171875,
+      "High": 211.7899932861328,
+      "Low": 209.6999969482422,
+      "Close": 211.17999267578125,
+      "Volume": 48939500,
+      "Dividends": 0.0,
+      "Stock Splits": 0.0
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "US stock market today: Wall Street pauses near record highs as earnings, inflation expectations take center stage",
+      "description": "US stock market ends mixed as S&P 500 record high headlines the stock market today as it touched a new peak before pulling back slightly on Friday. Despite the dip, the S&P 500, Nasdaq, and Dow Jones are all headed for a winning week, backed by strong corpora\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-pauses-near-record-highs-sp-500-nasdaq-dip-netflix-plunges-american-express-falters-as-inflation-outlook-cools/articleshow/122768384.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-122768364,width-1200,height-630,imgsize-77460,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-07-18T15:18:27Z",
+      "content": "US stock market ends mixed as S&amp;P 500 Flat After Fresh Record High, But Still Heads for Weekly Win- The S&amp;P 500 touched a new all-time high on Friday before pulling back slightly, as investor\u2026 [+8444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Comparing Apple With Industry Competitors In Technology Hardware, Storage & Peripherals Industry",
+      "description": "In the fast-paced and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Apple AAPL in comparison to its major c\u2026",
+      "url": "https://biztoc.com/x/6bb4ceb06890f2af",
+      "urlToImage": "https://biztoc.com/cdn/6bb4ceb06890f2af_s.webp",
+      "publishedAt": "2025-07-18T15:08:16Z",
+      "content": "In the fast-paced and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry co\u2026 [+139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barchart.com"
+      },
+      "author": "Barchart Insights",
+      "title": "Could the Pentagon\u2019s $550 Million Bet on Rare Earths Signal the Next Market Boom?",
+      "description": "A deep dive into why the U.S. government is backing rare earth mining; plus, the tiny companies flying under the radar.",
+      "url": "https://www.barchart.com/story/news/33494903/could-the-pentagons-550-million-bet-on-rare-earths-signal-the-next-market-boom",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TJTTFBjG83uL_3iInKqfYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MzE-/https://media.zenfs.com/en/barchart_com_477/c4613dc565cab0f23d346dfa93e15f5d",
+      "publishedAt": "2025-07-18T13:56:56Z",
+      "content": "Congress building by Martina Badini via Shutterstock\r\nThe Pentagon just made one of its biggest strategic investments in U.S. mining in recent history, and its worth a closer look for investors.\r\nIn \u2026 [+2696 chars]"
+    }
+  ]
+}
